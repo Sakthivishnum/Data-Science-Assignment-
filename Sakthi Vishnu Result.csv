@@ -1,0 +1,1001 @@
+TransactionID,CustomerID,Customer name,Product name,catogory,ProductID,TransactionDate,Quantity,TotalValue,Price,Region
+T00001,C0199,Andrea Jenkins,ComfortLiving Bluetooth Speaker,Electronics,P067,8/25/2024 12:38,1,300.68,300.68,Europe
+T00112,C0146,Brittany Harvey,ComfortLiving Bluetooth Speaker,Electronics,P067,5/27/2024 22:23,1,300.68,300.68,Asia
+T00166,C0127,Kathryn Stevens,ComfortLiving Bluetooth Speaker,Electronics,P067,4/25/2024 7:38,1,300.68,300.68,Europe
+T00272,C0087,Travis Campbell,ComfortLiving Bluetooth Speaker,Electronics,P067,3/26/2024 22:55,2,601.36,300.68,South America
+T00363,C0070,Timothy Perez,ComfortLiving Bluetooth Speaker,Electronics,P067,3/21/2024 15:10,3,902.04,300.68,Europe
+T00442,C0188,Anna Ball,ComfortLiving Bluetooth Speaker,Electronics,P067,12/26/2024 14:40,1,300.68,300.68,South America
+T00490,C0195,Jeremy Mclaughlin,ComfortLiving Bluetooth Speaker,Electronics,P067,11/24/2024 11:49,3,902.04,300.68,South America
+T00536,C0008,David Li,ComfortLiving Bluetooth Speaker,Electronics,P067,9/22/2024 6:13,1,300.68,300.68,North America
+T00564,C0157,Miguel Wong,ComfortLiving Bluetooth Speaker,Electronics,P067,12-07-2024 17:57,3,902.04,300.68,North America
+T00631,C0130,Robert Jones,ComfortLiving Bluetooth Speaker,Electronics,P067,5/14/2024 23:14,2,601.36,300.68,South America
+T00727,C0051,Nicholas Ellis,ComfortLiving Bluetooth Speaker,Electronics,P067,1/20/2024 4:52,3,902.04,300.68,Europe
+T00729,C0075,Misty Higgins,ComfortLiving Bluetooth Speaker,Electronics,P067,10-07-2024 06:38,2,601.36,300.68,Europe
+T00797,C0155,Michelle Brown,ComfortLiving Bluetooth Speaker,Electronics,P067,10-04-2024 20:42,2,601.36,300.68,South America
+T00002,C0092,Jacqueline Zamora,HomeSense T-Shirt,Clothing,P034,12/16/2024 3:31,2,434.1,217.05,Asia
+T00063,C0088,Carlos Murray,HomeSense T-Shirt,Clothing,P034,6/19/2024 7:16,2,434.1,217.05,Asia
+T00093,C0109,Abigail Jones,HomeSense T-Shirt,Clothing,P034,08-11-2024 04:10,4,868.2,217.05,North America
+T00127,C0041,Lindsey Deleon,HomeSense T-Shirt,Clothing,P034,06-03-2024 21:07,4,868.2,217.05,Europe
+T00270,C0101,Kelsey Roberts,HomeSense T-Shirt,Clothing,P034,11-07-2024 02:48,3,651.15,217.05,Asia
+T00358,C0154,Robert Sharp,HomeSense T-Shirt,Clothing,P034,04-08-2024 20:47,1,217.05,217.05,North America
+T00518,C0200,Kelly Cross,HomeSense T-Shirt,Clothing,P034,12-11-2024 03:05,4,868.2,217.05,Asia
+T00546,C0049,Jason Yates,HomeSense T-Shirt,Clothing,P034,8/30/2024 6:42,1,217.05,217.05,North America
+T00982,C0103,Jennifer Munoz,HomeSense T-Shirt,Clothing,P034,7/17/2024 3:25,1,217.05,217.05,Europe
+T00003,C0028,Jennifer Pena,ActiveWear Smartphone,Electronics,P057,1/25/2024 14:28,4,958.8,239.7,Asia
+T00013,C0183,Kimberly Johnson,ActiveWear Smartphone,Electronics,P057,03-04-2024 22:09,4,958.8,239.7,North America
+T00017,C0087,Travis Campbell,ActiveWear Smartphone,Electronics,P057,05-09-2024 03:52,4,958.8,239.7,South America
+T00046,C0190,Alexander Lowe,ActiveWear Smartphone,Electronics,P057,7/28/2024 6:29,4,958.8,239.7,South America
+T00091,C0200,Kelly Cross,ActiveWear Smartphone,Electronics,P057,4/27/2024 19:06,1,239.7,239.7,Asia
+T00161,C0055,Lauren Williams,ActiveWear Smartphone,Electronics,P057,7/15/2024 7:02,2,479.4,239.7,North America
+T00184,C0188,Anna Ball,ActiveWear Smartphone,Electronics,P057,5/13/2024 7:24,2,479.4,239.7,South America
+T00218,C0148,Matthew Rogers,ActiveWear Smartphone,Electronics,P057,1/17/2024 19:40,3,719.1,239.7,South America
+T00417,C0035,Brianna Richardson,ActiveWear Smartphone,Electronics,P057,4/20/2024 22:54,3,719.1,239.7,North America
+T00492,C0120,Francisco Diaz,ActiveWear Smartphone,Electronics,P057,08-08-2024 05:40,3,719.1,239.7,South America
+T00605,C0017,Jennifer King,ActiveWear Smartphone,Electronics,P057,12/31/2023 3:27,4,958.8,239.7,Europe
+T00615,C0145,Wayne Stone,ActiveWear Smartphone,Electronics,P057,7/14/2024 7:45,2,479.4,239.7,Asia
+T00619,C0028,Jennifer Pena,ActiveWear Smartphone,Electronics,P057,12/25/2024 9:53,2,479.4,239.7,Asia
+T00703,C0092,Jacqueline Zamora,ActiveWear Smartphone,Electronics,P057,02-04-2024 00:31,3,719.1,239.7,Asia
+T00962,C0188,Anna Ball,ActiveWear Smartphone,Electronics,P057,11/29/2024 19:49,2,479.4,239.7,South America
+T00004,C0004,Kathleen Rodriguez,TechPro Textbook,Books,P049,7/19/2024 10:56,4,591.8,147.95,South America
+T00105,C0087,Travis Campbell,TechPro Textbook,Books,P049,02-12-2024 08:14,3,443.85,147.95,South America
+T00136,C0010,Aaron Cox,TechPro Textbook,Books,P049,2/22/2024 18:44,2,295.9,147.95,Europe
+T00237,C0065,Gerald Hines,TechPro Textbook,Books,P049,2/27/2024 22:16,2,295.9,147.95,North America
+T00239,C0132,Lisa Jackson,TechPro Textbook,Books,P049,12-06-2024 19:03,2,295.9,147.95,Europe
+T00310,C0068,Mark Cox,TechPro Textbook,Books,P049,5/18/2024 5:03,2,295.9,147.95,North America
+T00470,C0123,Jason Johnston,TechPro Textbook,Books,P049,11/13/2024 17:36,1,147.95,147.95,Asia
+T00551,C0018,Tyler Haynes,TechPro Textbook,Books,P049,2/23/2024 13:28,3,443.85,147.95,North America
+T00563,C0064,Martha Montgomery,TechPro Textbook,Books,P049,1/16/2024 18:52,1,147.95,147.95,Europe
+T00567,C0121,Mark Atkinson,TechPro Textbook,Books,P049,9/27/2024 23:40,2,295.9,147.95,Europe
+T00620,C0041,Lindsey Deleon,TechPro Textbook,Books,P049,01-05-2024 18:43,4,591.8,147.95,Europe
+T00650,C0070,Timothy Perez,TechPro Textbook,Books,P049,10-07-2024 14:56,4,591.8,147.95,Europe
+T00818,C0161,Jessica Warren,TechPro Textbook,Books,P049,01-01-2024 03:54,1,147.95,147.95,Asia
+T00923,C0173,Francisco Young,TechPro Textbook,Books,P049,7/19/2024 10:31,1,147.95,147.95,Asia
+T00970,C0132,Lisa Jackson,TechPro Textbook,Books,P049,11/17/2024 6:14,4,591.8,147.95,Europe
+T00005,C0150,Angela Williams,TechPro Running Shoes,Clothing,P087,5/25/2024 17:44,2,580.34,290.17,South America
+T00037,C0176,Nicole Booth,TechPro Running Shoes,Clothing,P087,03-09-2024 04:58,4,1160.68,290.17,North America
+T00206,C0167,Brandy Welch,TechPro Running Shoes,Clothing,P087,05-05-2024 05:32,2,580.34,290.17,Europe
+T00208,C0184,Tina Jacobs,TechPro Running Shoes,Clothing,P087,8/14/2024 2:02,1,290.17,290.17,South America
+T00485,C0184,Tina Jacobs,TechPro Running Shoes,Clothing,P087,5/13/2024 14:33,1,290.17,290.17,South America
+T00488,C0034,Dalton Perez,TechPro Running Shoes,Clothing,P087,10/21/2024 12:47,2,580.34,290.17,North America
+T00497,C0053,Albert Burke,TechPro Running Shoes,Clothing,P087,6/21/2024 2:02,4,1160.68,290.17,Europe
+T00684,C0102,Michael Atkinson,TechPro Running Shoes,Clothing,P087,7/17/2024 7:26,1,290.17,290.17,South America
+T00846,C0134,Theresa Gonzalez,TechPro Running Shoes,Clothing,P087,11-10-2024 10:56,4,1160.68,290.17,Asia
+T00875,C0086,Stephanie Peterson,TechPro Running Shoes,Clothing,P087,9/26/2024 23:20,2,580.34,290.17,Europe
+T00880,C0036,Brian Aguilar DDS,TechPro Running Shoes,Clothing,P087,11-02-2024 12:20,3,870.51,290.17,North America
+T00953,C0056,Erika Fernandez,TechPro Running Shoes,Clothing,P087,03-07-2024 21:09,2,580.34,290.17,Asia
+T00006,C0076,Emily Roberts,TechPro Rug,Home Decor,P053,12-01-2024 20:44,3,824.82,274.94,South America
+T00010,C0194,Stacy Cook,TechPro Rug,Home Decor,P053,3/14/2024 11:55,1,274.94,274.94,North America
+T00175,C0146,Brittany Harvey,TechPro Rug,Home Decor,P053,12/18/2024 18:28,3,824.82,274.94,Asia
+T00269,C0124,Lindsay Perez,TechPro Rug,Home Decor,P053,02-06-2024 16:22,4,1099.76,274.94,Europe
+T00293,C0053,Albert Burke,TechPro Rug,Home Decor,P053,07-11-2024 15:32,3,824.82,274.94,Europe
+T00568,C0065,Gerald Hines,TechPro Rug,Home Decor,P053,9/18/2024 5:00,1,274.94,274.94,North America
+T00602,C0024,Michele Cooley,TechPro Rug,Home Decor,P053,4/26/2024 11:26,1,274.94,274.94,North America
+T00744,C0004,Kathleen Rodriguez,TechPro Rug,Home Decor,P053,03-11-2024 09:25,4,1099.76,274.94,South America
+T00952,C0139,Ricky Gutierrez,TechPro Rug,Home Decor,P053,10-06-2024 06:02,1,274.94,274.94,North America
+T00968,C0133,Gwendolyn Carter,TechPro Rug,Home Decor,P053,12-05-2024 17:47,4,1099.76,274.94,South America
+T00007,C0173,Francisco Young,ActiveWear Cookware Set,Home Decor,P023,05-06-2024 18:05,4,1818.12,454.53,Asia
+T00089,C0076,Emily Roberts,ActiveWear Cookware Set,Home Decor,P023,6/19/2024 23:01,1,454.53,454.53,South America
+T00158,C0012,Kevin May,ActiveWear Cookware Set,Home Decor,P023,5/30/2024 3:34,2,909.06,454.53,South America
+T00349,C0184,Tina Jacobs,ActiveWear Cookware Set,Home Decor,P023,4/18/2024 14:56,1,454.53,454.53,South America
+T00455,C0128,Henry Leach,ActiveWear Cookware Set,Home Decor,P023,01-08-2024 16:14,1,454.53,454.53,Asia
+T00501,C0158,Wendy Browning,ActiveWear Cookware Set,Home Decor,P023,09-04-2024 16:19,3,1363.59,454.53,South America
+T00721,C0012,Kevin May,ActiveWear Cookware Set,Home Decor,P023,12-08-2024 09:46,3,1363.59,454.53,South America
+T00749,C0133,Gwendolyn Carter,ActiveWear Cookware Set,Home Decor,P023,6/20/2024 19:04,2,909.06,454.53,South America
+T00997,C0164,Morgan Perez,ActiveWear Cookware Set,Home Decor,P023,11-01-2024 23:04,4,1818.12,454.53,Europe
+T00008,C0067,Carl Gonzalez,BookWorld Biography,Books,P069,10/17/2024 0:45,1,100.81,100.81,North America
+T00035,C0142,Nicole Long DVM,BookWorld Biography,Books,P069,8/20/2024 15:26,2,201.62,100.81,Asia
+T00140,C0121,Mark Atkinson,BookWorld Biography,Books,P069,3/18/2024 9:16,2,201.62,100.81,Europe
+T00187,C0032,Dustin Campbell,BookWorld Biography,Books,P069,2/24/2024 9:30,1,100.81,100.81,South America
+T00194,C0063,Wayne Ferguson,BookWorld Biography,Books,P069,9/28/2024 6:07,1,100.81,100.81,Europe
+T00228,C0113,Joseph Ortiz Jr.,BookWorld Biography,Books,P069,4/21/2024 19:52,2,201.62,100.81,South America
+T00232,C0136,Kristen Holder,BookWorld Biography,Books,P069,11-10-2024 22:04,3,302.43,100.81,Asia
+T00355,C0017,Jennifer King,BookWorld Biography,Books,P069,01-12-2024 20:20,2,201.62,100.81,Europe
+T00448,C0194,Stacy Cook,BookWorld Biography,Books,P069,10/22/2024 8:13,2,201.62,100.81,North America
+T00561,C0172,Jamie Webb,BookWorld Biography,Books,P069,5/14/2024 14:21,1,100.81,100.81,Europe
+T00828,C0068,Mark Cox,BookWorld Biography,Books,P069,06-04-2024 21:07,4,403.24,100.81,North America
+T00852,C0125,Nicholas Taylor,BookWorld Biography,Books,P069,8/24/2024 9:50,3,302.43,100.81,North America
+T00009,C0086,Stephanie Peterson,BookWorld Cookware Set,Home Decor,P095,04-06-2024 03:41,4,909.04,227.26,Europe
+T00155,C0002,Elizabeth Lutz,BookWorld Cookware Set,Home Decor,P095,07-12-2024 10:18,2,454.52,227.26,Asia
+T00644,C0008,David Li,BookWorld Cookware Set,Home Decor,P095,6/13/2024 9:13,1,227.26,227.26,North America
+T00685,C0017,Jennifer King,BookWorld Cookware Set,Home Decor,P095,05-11-2024 17:59,2,454.52,227.26,Europe
+T00800,C0122,Corey Ruiz,BookWorld Cookware Set,Home Decor,P095,8/25/2024 16:04,3,681.78,227.26,North America
+T00961,C0109,Abigail Jones,BookWorld Cookware Set,Home Decor,P095,11-02-2024 01:55,3,681.78,227.26,North America
+T00965,C0071,Taylor Murphy,BookWorld Cookware Set,Home Decor,P095,8/23/2024 15:53,4,909.04,227.26,South America
+T00011,C0162,Edwin Watson,HomeSense Novel,Books,P062,04-03-2024 03:46,1,374.16,374.16,Asia
+T00041,C0141,Paul Parsons,HomeSense Novel,Books,P062,2/13/2024 23:56,4,1496.64,374.16,Europe
+T00146,C0155,Michelle Brown,HomeSense Novel,Books,P062,7/24/2024 7:11,2,748.32,374.16,South America
+T00190,C0156,William Adams,HomeSense Novel,Books,P062,9/25/2024 19:36,2,748.32,374.16,North America
+T00221,C0188,Anna Ball,HomeSense Novel,Books,P062,2/28/2024 14:14,4,1496.64,374.16,South America
+T00230,C0064,Martha Montgomery,HomeSense Novel,Books,P062,12-06-2024 16:22,1,374.16,374.16,Europe
+T00364,C0183,Kimberly Johnson,HomeSense Novel,Books,P062,6/16/2024 8:22,2,748.32,374.16,North America
+T00533,C0191,Samantha Gibson DVM,HomeSense Novel,Books,P062,07-12-2024 10:33,4,1496.64,374.16,South America
+T00570,C0147,Hunter Fuller,HomeSense Novel,Books,P062,12/25/2024 0:52,1,374.16,374.16,South America
+T00640,C0087,Travis Campbell,HomeSense Novel,Books,P062,9/13/2024 23:20,3,1122.48,374.16,South America
+T00649,C0028,Jennifer Pena,HomeSense Novel,Books,P062,1/23/2024 7:39,3,1122.48,374.16,Asia
+T00664,C0138,Cynthia Clayton,HomeSense Novel,Books,P062,10-02-2024 22:44,4,1496.64,374.16,Asia
+T00692,C0153,Justin Smith,HomeSense Novel,Books,P062,6/30/2024 22:09,2,748.32,374.16,South America
+T00723,C0043,Sandy Short MD,HomeSense Novel,Books,P062,06-12-2024 01:39,2,748.32,374.16,Asia
+T00725,C0135,Toni Weaver,HomeSense Novel,Books,P062,10-03-2024 20:53,2,748.32,374.16,Europe
+T00944,C0122,Corey Ruiz,HomeSense Novel,Books,P062,10-08-2024 19:57,2,748.32,374.16,North America
+T00012,C0091,Lisa Kirk,ComfortLiving Smartphone,Electronics,P041,3/29/2024 1:28,4,1825.12,456.28,South America
+T00034,C0168,Karen Clements MD,ComfortLiving Smartphone,Electronics,P041,01-09-2024 11:00,4,1825.12,456.28,South America
+T00094,C0012,Kevin May,ComfortLiving Smartphone,Electronics,P041,7/14/2024 19:37,4,1825.12,456.28,South America
+T00231,C0069,Stacy Foster,ComfortLiving Smartphone,Electronics,P041,8/27/2024 19:54,2,912.56,456.28,Europe
+T00236,C0184,Tina Jacobs,ComfortLiving Smartphone,Electronics,P041,2/25/2024 14:08,1,456.28,456.28,South America
+T00261,C0125,Nicholas Taylor,ComfortLiving Smartphone,Electronics,P041,2/20/2024 6:00,2,912.56,456.28,North America
+T00343,C0173,Francisco Young,ComfortLiving Smartphone,Electronics,P041,01-02-2024 11:54,1,456.28,456.28,Asia
+T00482,C0066,Catherine White,ComfortLiving Smartphone,Electronics,P041,06-04-2024 02:02,4,1825.12,456.28,Europe
+T00589,C0186,Amber Alexander,ComfortLiving Smartphone,Electronics,P041,10/23/2024 16:42,1,456.28,456.28,Asia
+T00597,C0023,Nicholas Cain,ComfortLiving Smartphone,Electronics,P041,07-01-2024 04:53,3,1368.84,456.28,Europe
+T00881,C0101,Kelsey Roberts,ComfortLiving Smartphone,Electronics,P041,8/19/2024 4:22,3,1368.84,456.28,Asia
+T00014,C0105,Ryan Hampton,HomeSense T-Shirt,Clothing,P060,08-05-2024 07:35,1,155.65,155.65,Europe
+T00392,C0072,Sarah Scott,HomeSense T-Shirt,Clothing,P060,11-02-2024 20:33,4,622.6,155.65,North America
+T00405,C0093,Nancy Walker,HomeSense T-Shirt,Clothing,P060,08-02-2024 21:41,2,311.3,155.65,Asia
+T00452,C0009,Joy Clark,HomeSense T-Shirt,Clothing,P060,3/16/2024 17:26,1,155.65,155.65,Europe
+T00642,C0162,Edwin Watson,HomeSense T-Shirt,Clothing,P060,08-06-2024 20:12,4,622.6,155.65,Asia
+T00768,C0083,Christina Stark,HomeSense T-Shirt,Clothing,P060,12/17/2024 13:01,1,155.65,155.65,South America
+T00015,C0001,Lawrence Carroll,SoundWave Cookbook,Books,P054,1/19/2024 3:12,2,114.6,57.3,South America
+T00053,C0039,Angela Harris,SoundWave Cookbook,Books,P054,9/30/2024 14:42,3,171.9,57.3,South America
+T00203,C0124,Lindsay Perez,SoundWave Cookbook,Books,P054,3/31/2024 16:50,4,229.2,57.3,Europe
+T00210,C0165,Juan Mcdaniel,SoundWave Cookbook,Books,P054,8/15/2024 15:59,2,114.6,57.3,South America
+T00262,C0143,Brian Parker,SoundWave Cookbook,Books,P054,1/30/2024 22:40,1,57.3,57.3,Asia
+T00327,C0165,Juan Mcdaniel,SoundWave Cookbook,Books,P054,11/27/2024 10:42,2,114.6,57.3,South America
+T00395,C0038,Jeffrey Perkins,SoundWave Cookbook,Books,P054,3/14/2024 8:10,3,171.9,57.3,North America
+T00423,C0019,Brandon Rodriguez,SoundWave Cookbook,Books,P054,11-08-2024 10:22,3,171.9,57.3,Europe
+T00581,C0083,Christina Stark,SoundWave Cookbook,Books,P054,11/13/2024 4:56,2,114.6,57.3,South America
+T00634,C0073,Heidi Johnson,SoundWave Cookbook,Books,P054,3/20/2024 2:37,4,229.2,57.3,Europe
+T00699,C0156,William Adams,SoundWave Cookbook,Books,P054,4/21/2024 22:39,3,171.9,57.3,North America
+T00784,C0047,Samantha Frank,SoundWave Cookbook,Books,P054,8/23/2024 9:06,3,171.9,57.3,North America
+T00808,C0190,Alexander Lowe,SoundWave Cookbook,Books,P054,07-06-2024 00:13,4,229.2,57.3,South America
+T00873,C0086,Stephanie Peterson,SoundWave Cookbook,Books,P054,08-02-2024 11:13,4,229.2,57.3,Europe
+T00884,C0171,Michael Cowan,SoundWave Cookbook,Books,P054,1/28/2024 18:40,3,171.9,57.3,South America
+T00926,C0181,Alexander Barker,SoundWave Cookbook,Books,P054,8/16/2024 2:29,3,171.9,57.3,South America
+T00016,C0072,Sarah Scott,HomeSense T-Shirt,Clothing,P070,07-05-2024 23:04,2,97.38,48.69,North America
+T00087,C0108,David Davis,HomeSense T-Shirt,Clothing,P070,2/16/2024 19:58,1,48.69,48.69,South America
+T00098,C0090,Charles Hamilton,HomeSense T-Shirt,Clothing,P070,8/28/2024 2:11,3,146.07,48.69,Asia
+T00281,C0126,Caitlin Brown,HomeSense T-Shirt,Clothing,P070,9/24/2024 16:29,1,48.69,48.69,South America
+T00750,C0056,Erika Fernandez,HomeSense T-Shirt,Clothing,P070,12/25/2024 21:16,4,194.76,48.69,Asia
+T00762,C0106,Amanda Mcguire,HomeSense T-Shirt,Clothing,P070,11-01-2024 09:20,4,194.76,48.69,Asia
+T00018,C0166,John Rogers,ComfortLiving Smartwatch,Electronics,P010,9/21/2024 22:21,3,1050.39,350.13,Europe
+T00068,C0088,Carlos Murray,ComfortLiving Smartwatch,Electronics,P010,9/22/2024 23:11,3,1050.39,350.13,Asia
+T00243,C0069,Stacy Foster,ComfortLiving Smartwatch,Electronics,P010,8/31/2024 0:38,2,700.26,350.13,Europe
+T00276,C0113,Joseph Ortiz Jr.,ComfortLiving Smartwatch,Electronics,P010,11/27/2024 17:12,3,1050.39,350.13,South America
+T00292,C0086,Stephanie Peterson,ComfortLiving Smartwatch,Electronics,P010,12/26/2024 2:30,2,700.26,350.13,Europe
+T00315,C0125,Nicholas Taylor,ComfortLiving Smartwatch,Electronics,P010,04-03-2024 21:46,3,1050.39,350.13,North America
+T00372,C0192,Sarah Arias,ComfortLiving Smartwatch,Electronics,P010,7/22/2024 10:55,1,350.13,350.13,South America
+T00516,C0074,Jonathan Russo,ComfortLiving Smartwatch,Electronics,P010,7/29/2024 6:11,1,350.13,350.13,Europe
+T00710,C0162,Edwin Watson,ComfortLiving Smartwatch,Electronics,P010,1/13/2024 9:31,1,350.13,350.13,Asia
+T00830,C0048,Matthew Park,ComfortLiving Smartwatch,Electronics,P010,1/28/2024 9:13,2,700.26,350.13,South America
+T00986,C0122,Corey Ruiz,ComfortLiving Smartwatch,Electronics,P010,5/20/2024 10:52,2,700.26,350.13,North America
+T00019,C0006,Brittany Palmer,SoundWave Mystery Book,Books,P040,06-05-2024 01:19,2,306.38,153.19,South America
+T00137,C0142,Nicole Long DVM,SoundWave Mystery Book,Books,P040,04-03-2024 12:44,4,612.76,153.19,Asia
+T00347,C0139,Ricky Gutierrez,SoundWave Mystery Book,Books,P040,1/24/2024 21:50,2,306.38,153.19,North America
+T00359,C0048,Matthew Park,SoundWave Mystery Book,Books,P040,12-04-2024 20:50,4,612.76,153.19,South America
+T00406,C0171,Michael Cowan,SoundWave Mystery Book,Books,P040,2/18/2024 0:12,2,306.38,153.19,South America
+T00538,C0119,David Armstrong,SoundWave Mystery Book,Books,P040,4/26/2024 17:37,2,306.38,153.19,Europe
+T00637,C0184,Tina Jacobs,SoundWave Mystery Book,Books,P040,09-08-2024 08:52,3,459.57,153.19,South America
+T00704,C0186,Amber Alexander,SoundWave Mystery Book,Books,P040,6/21/2024 7:59,4,612.76,153.19,Asia
+T00910,C0071,Taylor Murphy,SoundWave Mystery Book,Books,P040,5/22/2024 3:47,1,153.19,153.19,South America
+T00930,C0193,Douglas Torres,SoundWave Mystery Book,Books,P040,5/27/2024 9:32,2,306.38,153.19,Asia
+T00936,C0148,Matthew Rogers,SoundWave Mystery Book,Books,P040,06-11-2024 20:36,4,612.76,153.19,South America
+T00993,C0027,Justin Heath,SoundWave Mystery Book,Books,P040,03-08-2024 09:48,2,306.38,153.19,Asia
+T00995,C0191,Samantha Gibson DVM,SoundWave Mystery Book,Books,P040,06-04-2024 06:32,4,612.76,153.19,South America
+T00020,C0153,Justin Smith,SoundWave Cookbook,Books,P007,7/16/2024 22:33,4,1680.6,420.15,South America
+T00163,C0101,Kelsey Roberts,SoundWave Cookbook,Books,P007,3/13/2024 22:33,4,1680.6,420.15,Asia
+T00204,C0161,Jessica Warren,SoundWave Cookbook,Books,P007,1/31/2024 1:11,2,840.3,420.15,Asia
+T00309,C0103,Jennifer Munoz,SoundWave Cookbook,Books,P007,8/28/2024 5:03,2,840.3,420.15,Europe
+T00421,C0047,Samantha Frank,SoundWave Cookbook,Books,P007,01-04-2024 07:47,1,420.15,420.15,North America
+T00565,C0156,William Adams,SoundWave Cookbook,Books,P007,12/15/2024 0:35,2,840.3,420.15,North America
+T00741,C0079,Brian Murillo,SoundWave Cookbook,Books,P007,2/22/2024 15:13,2,840.3,420.15,North America
+T00945,C0193,Douglas Torres,SoundWave Cookbook,Books,P007,5/22/2024 21:58,3,1260.45,420.15,Asia
+T00021,C0145,Wayne Stone,TechPro Vase,Home Decor,P038,01-11-2024 09:47,2,294.44,147.22,Asia
+T00032,C0109,Abigail Jones,TechPro Vase,Home Decor,P038,11-07-2024 01:47,4,588.88,147.22,North America
+T00251,C0004,Kathleen Rodriguez,TechPro Vase,Home Decor,P038,08-03-2024 06:21,3,441.66,147.22,South America
+T00323,C0082,Aimee Taylor,TechPro Vase,Home Decor,P038,9/22/2024 7:51,4,588.88,147.22,South America
+T00374,C0181,Alexander Barker,TechPro Vase,Home Decor,P038,12/27/2024 17:31,2,294.44,147.22,South America
+T00432,C0065,Gerald Hines,TechPro Vase,Home Decor,P038,12/13/2024 21:18,3,441.66,147.22,North America
+T00434,C0025,Gregory Odom,TechPro Vase,Home Decor,P038,05-09-2024 03:14,4,588.88,147.22,South America
+T00726,C0111,Roger David,TechPro Vase,Home Decor,P038,12-12-2024 18:56,1,147.22,147.22,Europe
+T00728,C0160,Jodi Cook,TechPro Vase,Home Decor,P038,02-08-2024 22:57,1,147.22,147.22,North America
+T00785,C0159,Austin Miller,TechPro Vase,Home Decor,P038,3/26/2024 0:51,1,147.22,147.22,Asia
+T00814,C0093,Nancy Walker,TechPro Vase,Home Decor,P038,09-08-2024 16:26,1,147.22,147.22,Asia
+T00863,C0008,David Li,TechPro Vase,Home Decor,P038,11-08-2024 20:46,1,147.22,147.22,North America
+T00913,C0117,Jeffrey Mcmahon,TechPro Vase,Home Decor,P038,02-08-2024 17:57,1,147.22,147.22,North America
+T00022,C0061,Brandon Escobar,BookWorld Biography,Books,P085,8/19/2024 8:16,3,1249.05,416.35,Europe
+T00052,C0090,Charles Hamilton,BookWorld Biography,Books,P085,2/25/2024 18:56,3,1249.05,416.35,Asia
+T00330,C0028,Jennifer Pena,BookWorld Biography,Books,P085,5/15/2024 10:49,3,1249.05,416.35,Asia
+T00401,C0189,Sherri Dixon,BookWorld Biography,Books,P085,11-11-2024 16:53,3,1249.05,416.35,North America
+T00435,C0037,Linda Smith,BookWorld Biography,Books,P085,5/16/2024 16:00,4,1665.4,416.35,Europe
+T00475,C0145,Wayne Stone,BookWorld Biography,Books,P085,9/28/2024 22:39,2,832.7,416.35,Asia
+T00504,C0021,Robert Blanchard,BookWorld Biography,Books,P085,04-05-2024 03:20,1,416.35,416.35,Asia
+T00829,C0099,Rodney Eaton,BookWorld Biography,Books,P085,12/23/2024 18:22,4,1665.4,416.35,South America
+T00023,C0012,Kevin May,HomeSense Desk Lamp,Home Decor,P061,6/18/2024 10:55,4,627.84,156.96,South America
+T00128,C0167,Brandy Welch,HomeSense Desk Lamp,Home Decor,P061,10-01-2024 14:05,3,470.88,156.96,Europe
+T00361,C0052,Stanley Aguirre,HomeSense Desk Lamp,Home Decor,P061,09-01-2024 11:18,4,627.84,156.96,South America
+T00403,C0114,Benjamin Anderson,HomeSense Desk Lamp,Home Decor,P061,2/21/2024 15:52,4,627.84,156.96,Europe
+T00422,C0163,Tiffany Cain,HomeSense Desk Lamp,Home Decor,P061,05-11-2024 07:45,3,470.88,156.96,South America
+T00458,C0102,Michael Atkinson,HomeSense Desk Lamp,Home Decor,P061,6/25/2024 22:40,1,156.96,156.96,South America
+T00476,C0119,David Armstrong,HomeSense Desk Lamp,Home Decor,P061,02-07-2024 04:03,1,156.96,156.96,Europe
+T00553,C0038,Jeffrey Perkins,HomeSense Desk Lamp,Home Decor,P061,12-12-2024 18:55,1,156.96,156.96,North America
+T00655,C0182,Joshua Preston,HomeSense Desk Lamp,Home Decor,P061,4/28/2024 2:14,4,627.84,156.96,Europe
+T00696,C0065,Gerald Hines,HomeSense Desk Lamp,Home Decor,P061,03-05-2024 18:21,3,470.88,156.96,North America
+T00731,C0200,Kelly Cross,HomeSense Desk Lamp,Home Decor,P061,7/15/2024 20:36,4,627.84,156.96,Asia
+T00791,C0052,Stanley Aguirre,HomeSense Desk Lamp,Home Decor,P061,01-09-2024 13:32,2,313.92,156.96,South America
+T00795,C0178,Carol Williams,HomeSense Desk Lamp,Home Decor,P061,12/21/2024 0:45,1,156.96,156.96,Asia
+T00834,C0090,Charles Hamilton,HomeSense Desk Lamp,Home Decor,P061,5/16/2024 1:56,3,470.88,156.96,Asia
+T00840,C0018,Tyler Haynes,HomeSense Desk Lamp,Home Decor,P061,3/28/2024 17:43,3,470.88,156.96,North America
+T00869,C0081,Kimberly Turner,HomeSense Desk Lamp,Home Decor,P061,12/30/2023 15:29,2,313.92,156.96,Europe
+T00024,C0006,Brittany Palmer,ActiveWear Wall Art,Home Decor,P084,6/13/2024 10:35,3,1013.73,337.91,South America
+T00100,C0197,Christina Harvey,ActiveWear Wall Art,Home Decor,P084,05-08-2024 15:48,3,1013.73,337.91,Europe
+T00202,C0100,Clinton Gomez,ActiveWear Wall Art,Home Decor,P084,1/31/2024 14:10,1,337.91,337.91,Europe
+T00235,C0116,James Martinez,ActiveWear Wall Art,Home Decor,P084,1/31/2024 11:17,2,675.82,337.91,North America
+T00265,C0122,Corey Ruiz,ActiveWear Wall Art,Home Decor,P084,3/19/2024 0:50,1,337.91,337.91,North America
+T00346,C0149,Tina Wilson,ActiveWear Wall Art,Home Decor,P084,04-09-2024 16:45,4,1351.64,337.91,Europe
+T00444,C0127,Kathryn Stevens,ActiveWear Wall Art,Home Decor,P084,02-08-2024 03:30,1,337.91,337.91,Europe
+T00752,C0178,Carol Williams,ActiveWear Wall Art,Home Decor,P084,4/25/2024 22:21,4,1351.64,337.91,Asia
+T00753,C0075,Misty Higgins,ActiveWear Wall Art,Home Decor,P084,12-06-2024 01:59,4,1351.64,337.91,Europe
+T00862,C0106,Amanda Mcguire,ActiveWear Wall Art,Home Decor,P084,05-06-2024 07:02,2,675.82,337.91,Asia
+T00940,C0059,Mrs. Kimberly Wright,ActiveWear Wall Art,Home Decor,P084,9/14/2024 15:29,4,1351.64,337.91,North America
+T00958,C0026,Sara Miller,ActiveWear Wall Art,Home Decor,P084,10-07-2024 21:52,3,1013.73,337.91,North America
+T00990,C0195,Jeremy Mclaughlin,ActiveWear Wall Art,Home Decor,P084,8/18/2024 21:30,2,675.82,337.91,South America
+T00025,C0027,Justin Heath,ComfortLiving Biography,Books,P003,10-11-2024 21:32,4,176.48,44.12,Asia
+T00102,C0153,Justin Smith,ComfortLiving Biography,Books,P003,7/20/2024 16:04,2,88.24,44.12,South America
+T00242,C0178,Carol Williams,ComfortLiving Biography,Books,P003,10-08-2024 06:27,1,44.12,44.12,Asia
+T00381,C0109,Abigail Jones,ComfortLiving Biography,Books,P003,8/16/2024 19:39,4,176.48,44.12,North America
+T00430,C0135,Toni Weaver,ComfortLiving Biography,Books,P003,5/16/2024 3:37,2,88.24,44.12,Europe
+T00574,C0172,Jamie Webb,ComfortLiving Biography,Books,P003,7/23/2024 20:01,1,44.12,44.12,Europe
+T00600,C0101,Kelsey Roberts,ComfortLiving Biography,Books,P003,01-02-2024 11:26,3,132.36,44.12,Asia
+T00633,C0137,Robert Gardner,ComfortLiving Biography,Books,P003,3/20/2024 23:29,3,132.36,44.12,South America
+T00686,C0012,Kevin May,ComfortLiving Biography,Books,P003,05-12-2024 12:53,4,176.48,44.12,South America
+T00826,C0169,Jennifer Shaw,ComfortLiving Biography,Books,P003,7/20/2024 11:22,2,88.24,44.12,South America
+T00914,C0094,Emily Trevino,ComfortLiving Biography,Books,P003,03-10-2024 12:10,2,88.24,44.12,North America
+T00991,C0111,Roger David,ComfortLiving Biography,Books,P003,1/26/2024 22:34,3,132.36,44.12,Europe
+T00026,C0136,Kristen Holder,ComfortLiving Desk Lamp,Home Decor,P051,02-01-2024 08:58,3,195.48,65.16,Asia
+T00044,C0046,Beth Cardenas,ComfortLiving Desk Lamp,Home Decor,P051,03-09-2024 09:06,3,195.48,65.16,North America
+T00079,C0147,Hunter Fuller,ComfortLiving Desk Lamp,Home Decor,P051,05-09-2024 16:33,1,65.16,65.16,South America
+T00169,C0152,Justin Evans,ComfortLiving Desk Lamp,Home Decor,P051,06-09-2024 15:20,1,65.16,65.16,South America
+T00297,C0131,Scott Wilson,ComfortLiving Desk Lamp,Home Decor,P051,1/18/2024 1:32,3,195.48,65.16,North America
+T00386,C0116,James Martinez,ComfortLiving Desk Lamp,Home Decor,P051,09-03-2024 03:40,4,260.64,65.16,North America
+T00590,C0157,Miguel Wong,ComfortLiving Desk Lamp,Home Decor,P051,05-04-2024 20:38,2,130.32,65.16,North America
+T00607,C0175,Matthew Johnson,ComfortLiving Desk Lamp,Home Decor,P051,10-04-2024 01:18,4,260.64,65.16,Asia
+T00856,C0043,Sandy Short MD,ComfortLiving Desk Lamp,Home Decor,P051,9/19/2024 14:24,2,130.32,65.16,Asia
+T00957,C0076,Emily Roberts,ComfortLiving Desk Lamp,Home Decor,P051,2/21/2024 4:21,3,195.48,65.16,South America
+T00027,C0124,Lindsay Perez,SoundWave Novel,Books,P086,3/30/2024 21:17,2,881.4,440.7,Europe
+T00069,C0021,Robert Blanchard,SoundWave Novel,Books,P086,1/13/2024 0:48,4,1762.8,440.7,Asia
+T00193,C0041,Lindsey Deleon,SoundWave Novel,Books,P086,06-10-2024 11:46,4,1762.8,440.7,Europe
+T00420,C0057,Elizabeth Nguyen,SoundWave Novel,Books,P086,7/31/2024 21:34,4,1762.8,440.7,Europe
+T00493,C0126,Caitlin Brown,SoundWave Novel,Books,P086,11/28/2024 19:01,4,1762.8,440.7,South America
+T00587,C0165,Juan Mcdaniel,SoundWave Novel,Books,P086,08-09-2024 08:58,4,1762.8,440.7,South America
+T00691,C0171,Michael Cowan,SoundWave Novel,Books,P086,1/13/2024 11:31,3,1322.1,440.7,South America
+T00813,C0006,Brittany Palmer,SoundWave Novel,Books,P086,10-07-2024 04:07,3,1322.1,440.7,South America
+T00896,C0093,Nancy Walker,SoundWave Novel,Books,P086,3/26/2024 18:01,1,440.7,440.7,Asia
+T00028,C0106,Amanda Mcguire,ComfortLiving Cookware Set,Home Decor,P047,11/27/2024 5:40,2,318.66,159.33,Asia
+T00047,C0136,Kristen Holder,ComfortLiving Cookware Set,Home Decor,P047,4/23/2024 17:09,4,637.32,159.33,Asia
+T00107,C0175,Matthew Johnson,ComfortLiving Cookware Set,Home Decor,P047,9/25/2024 20:31,3,477.99,159.33,Asia
+T00197,C0075,Misty Higgins,ComfortLiving Cookware Set,Home Decor,P047,2/21/2024 11:11,4,637.32,159.33,Europe
+T00352,C0046,Beth Cardenas,ComfortLiving Cookware Set,Home Decor,P047,09-09-2024 04:31,2,318.66,159.33,North America
+T00443,C0128,Henry Leach,ComfortLiving Cookware Set,Home Decor,P047,5/26/2024 8:08,2,318.66,159.33,Asia
+T00524,C0014,Deborah Wilcox,ComfortLiving Cookware Set,Home Decor,P047,1/17/2024 18:31,2,318.66,159.33,Europe
+T00531,C0022,Teresa Esparza,ComfortLiving Cookware Set,Home Decor,P047,07-10-2024 07:04,1,159.33,159.33,Asia
+T00539,C0159,Austin Miller,ComfortLiving Cookware Set,Home Decor,P047,12/13/2024 17:21,4,637.32,159.33,Asia
+T00897,C0195,Jeremy Mclaughlin,ComfortLiving Cookware Set,Home Decor,P047,4/30/2024 14:23,3,477.99,159.33,South America
+T00029,C0193,Douglas Torres,TechPro Novel,Books,P068,02-12-2024 03:10,3,1341.69,447.23,Asia
+T00071,C0059,Mrs. Kimberly Wright,TechPro Novel,Books,P068,10/24/2024 0:10,1,447.23,447.23,North America
+T00118,C0082,Aimee Taylor,TechPro Novel,Books,P068,11/30/2024 7:11,3,1341.69,447.23,South America
+T00156,C0081,Kimberly Turner,TechPro Novel,Books,P068,11-08-2024 18:02,1,447.23,447.23,Europe
+T00199,C0160,Jodi Cook,TechPro Novel,Books,P068,01-07-2024 09:51,1,447.23,447.23,North America
+T00287,C0165,Juan Mcdaniel,TechPro Novel,Books,P068,12/26/2024 6:46,4,1788.92,447.23,South America
+T00308,C0139,Ricky Gutierrez,TechPro Novel,Books,P068,9/29/2024 13:03,2,894.46,447.23,North America
+T00425,C0008,David Li,TechPro Novel,Books,P068,08-01-2024 14:20,1,447.23,447.23,North America
+T00447,C0035,Brianna Richardson,TechPro Novel,Books,P068,9/30/2024 17:00,3,1341.69,447.23,North America
+T00450,C0104,Laura Bennett,TechPro Novel,Books,P068,8/23/2024 2:14,1,447.23,447.23,South America
+T00833,C0187,Kayla Kelly,TechPro Novel,Books,P068,01-09-2024 11:36,3,1341.69,447.23,South America
+T00030,C0185,Kathleen Logan,BookWorld Running Shoes,Clothing,P092,8/20/2024 5:30,3,1167.6,389.2,North America
+T00340,C0098,Laura Gilbert,BookWorld Running Shoes,Clothing,P092,07-02-2024 05:35,2,778.4,389.2,North America
+T00410,C0042,Heather Riley,BookWorld Running Shoes,Clothing,P092,10/30/2024 12:42,4,1556.8,389.2,North America
+T00426,C0026,Sara Miller,BookWorld Running Shoes,Clothing,P092,3/20/2024 10:30,1,389.2,389.2,North America
+T00439,C0141,Paul Parsons,BookWorld Running Shoes,Clothing,P092,07-01-2024 14:11,4,1556.8,389.2,Europe
+T00618,C0103,Jennifer Munoz,BookWorld Running Shoes,Clothing,P092,03-04-2024 04:39,1,389.2,389.2,Europe
+T00652,C0149,Tina Wilson,BookWorld Running Shoes,Clothing,P092,4/27/2024 1:00,4,1556.8,389.2,Europe
+T00676,C0081,Kimberly Turner,BookWorld Running Shoes,Clothing,P092,09-04-2024 02:55,4,1556.8,389.2,Europe
+T00678,C0142,Nicole Long DVM,BookWorld Running Shoes,Clothing,P092,12/24/2024 20:00,3,1167.6,389.2,Asia
+T00031,C0093,Nancy Walker,ActiveWear Jeans,Clothing,P076,8/31/2024 18:20,3,1287.87,429.29,Asia
+T00106,C0158,Wendy Browning,ActiveWear Jeans,Clothing,P076,09-12-2024 09:25,4,1717.16,429.29,South America
+T00149,C0093,Nancy Walker,ActiveWear Jeans,Clothing,P076,7/13/2024 13:50,4,1717.16,429.29,Asia
+T00240,C0113,Joseph Ortiz Jr.,ActiveWear Jeans,Clothing,P076,1/24/2024 2:35,1,429.29,429.29,South America
+T00487,C0159,Austin Miller,ActiveWear Jeans,Clothing,P076,7/21/2024 4:34,3,1287.87,429.29,Asia
+T00614,C0042,Heather Riley,ActiveWear Jeans,Clothing,P076,4/28/2024 14:38,1,429.29,429.29,North America
+T00694,C0188,Anna Ball,ActiveWear Jeans,Clothing,P076,6/30/2024 8:52,4,1717.16,429.29,South America
+T00709,C0175,Matthew Johnson,ActiveWear Jeans,Clothing,P076,9/30/2024 5:29,1,429.29,429.29,Asia
+T00754,C0143,Brian Parker,ActiveWear Jeans,Clothing,P076,1/30/2024 13:30,3,1287.87,429.29,Asia
+T00894,C0155,Michelle Brown,ActiveWear Jeans,Clothing,P076,09-12-2024 09:37,2,858.58,429.29,South America
+T00033,C0099,Rodney Eaton,BookWorld Jacket,Clothing,P036,12/17/2024 22:52,2,745.1,372.55,South America
+T00080,C0139,Ricky Gutierrez,BookWorld Jacket,Clothing,P036,04-09-2024 07:47,1,372.55,372.55,North America
+T00312,C0092,Jacqueline Zamora,BookWorld Jacket,Clothing,P036,1/27/2024 16:35,1,372.55,372.55,Asia
+T00316,C0141,Paul Parsons,BookWorld Jacket,Clothing,P036,12-03-2024 18:01,2,745.1,372.55,Europe
+T00376,C0092,Jacqueline Zamora,BookWorld Jacket,Clothing,P036,10/21/2024 4:58,4,1490.2,372.55,Asia
+T00407,C0067,Carl Gonzalez,BookWorld Jacket,Clothing,P036,10/17/2024 2:10,1,372.55,372.55,North America
+T00469,C0083,Christina Stark,BookWorld Jacket,Clothing,P036,4/14/2024 12:03,1,372.55,372.55,South America
+T00517,C0010,Aaron Cox,BookWorld Jacket,Clothing,P036,11/16/2024 18:14,3,1117.65,372.55,Europe
+T00616,C0101,Kelsey Roberts,BookWorld Jacket,Clothing,P036,12-07-2024 12:23,2,745.1,372.55,Asia
+T00659,C0013,Lauren Buchanan,BookWorld Jacket,Clothing,P036,11-03-2024 05:30,3,1117.65,372.55,South America
+T00690,C0029,Erin Manning,BookWorld Jacket,Clothing,P036,12/26/2024 1:49,3,1117.65,372.55,North America
+T00925,C0093,Nancy Walker,BookWorld Jacket,Clothing,P036,04-04-2024 03:50,1,372.55,372.55,Asia
+T00036,C0035,Brianna Richardson,BookWorld Smartwatch,Electronics,P013,1/17/2024 12:40,1,114.2,114.2,North America
+T00097,C0045,Michael Williams,BookWorld Smartwatch,Electronics,P013,06-08-2024 14:47,4,456.8,114.2,Asia
+T00144,C0084,Belinda Garner,BookWorld Smartwatch,Electronics,P013,1/24/2024 9:21,1,114.2,114.2,Asia
+T00201,C0118,Jacob Holt,BookWorld Smartwatch,Electronics,P013,11/14/2024 13:58,1,114.2,114.2,South America
+T00498,C0039,Angela Harris,BookWorld Smartwatch,Electronics,P013,10/27/2024 5:26,1,114.2,114.2,South America
+T00544,C0075,Misty Higgins,BookWorld Smartwatch,Electronics,P013,6/13/2024 7:28,3,342.6,114.2,Europe
+T00560,C0069,Stacy Foster,BookWorld Smartwatch,Electronics,P013,05-09-2024 09:15,3,342.6,114.2,Europe
+T00697,C0084,Belinda Garner,BookWorld Smartwatch,Electronics,P013,10/16/2024 6:10,3,342.6,114.2,Asia
+T00738,C0157,Miguel Wong,BookWorld Smartwatch,Electronics,P013,3/19/2024 16:14,3,342.6,114.2,North America
+T00803,C0197,Christina Harvey,BookWorld Smartwatch,Electronics,P013,1/13/2024 4:52,4,456.8,114.2,Europe
+T00919,C0091,Lisa Kirk,BookWorld Smartwatch,Electronics,P013,03-10-2024 12:56,3,342.6,114.2,South America
+T00038,C0084,Belinda Garner,ActiveWear Textbook,Books,P058,09-05-2024 08:46,2,315.24,157.62,Asia
+T00124,C0076,Emily Roberts,ActiveWear Textbook,Books,P058,02-07-2024 01:32,3,472.86,157.62,South America
+T00227,C0049,Jason Yates,ActiveWear Textbook,Books,P058,4/25/2024 18:50,2,315.24,157.62,North America
+T00365,C0102,Michael Atkinson,ActiveWear Textbook,Books,P058,04-09-2024 18:48,4,630.48,157.62,South America
+T00404,C0022,Teresa Esparza,ActiveWear Textbook,Books,P058,9/17/2024 15:12,2,315.24,157.62,Asia
+T00416,C0152,Justin Evans,ActiveWear Textbook,Books,P058,1/13/2024 10:46,1,157.62,157.62,South America
+T00471,C0102,Michael Atkinson,ActiveWear Textbook,Books,P058,01-12-2024 17:34,4,630.48,157.62,South America
+T00566,C0139,Ricky Gutierrez,ActiveWear Textbook,Books,P058,7/30/2024 11:43,2,315.24,157.62,North America
+T00662,C0118,Jacob Holt,ActiveWear Textbook,Books,P058,11-08-2024 12:43,1,157.62,157.62,South America
+T00667,C0047,Samantha Frank,ActiveWear Textbook,Books,P058,4/26/2024 14:16,2,315.24,157.62,North America
+T00681,C0153,Justin Smith,ActiveWear Textbook,Books,P058,09-05-2024 07:22,4,630.48,157.62,South America
+T00824,C0156,William Adams,ActiveWear Textbook,Books,P058,5/20/2024 12:30,1,157.62,157.62,North America
+T00981,C0112,Brian Adkins,ActiveWear Textbook,Books,P058,07-10-2024 02:32,4,630.48,157.62,South America
+T00039,C0056,Erika Fernandez,ActiveWear Smartwatch,Electronics,P050,10/16/2024 1:04,2,875.3,437.65,Asia
+T00191,C0172,Jamie Webb,ActiveWear Smartwatch,Electronics,P050,11/21/2024 12:52,1,437.65,437.65,Europe
+T00328,C0085,Richard Brown,ActiveWear Smartwatch,Electronics,P050,09-04-2024 11:39,3,1312.95,437.65,South America
+T00345,C0140,Gregory Estrada,ActiveWear Smartwatch,Electronics,P050,08-07-2024 09:24,4,1750.6,437.65,Asia
+T00362,C0096,Benjamin Mcclure,ActiveWear Smartwatch,Electronics,P050,1/31/2024 7:07,2,875.3,437.65,South America
+T00542,C0098,Laura Gilbert,ActiveWear Smartwatch,Electronics,P050,4/17/2024 0:48,1,437.65,437.65,North America
+T00718,C0007,Paul Graves,ActiveWear Smartwatch,Electronics,P050,2/20/2024 9:22,1,437.65,437.65,Asia
+T00770,C0181,Alexander Barker,ActiveWear Smartwatch,Electronics,P050,9/16/2024 21:24,2,875.3,437.65,South America
+T00859,C0162,Edwin Watson,ActiveWear Smartwatch,Electronics,P050,01-11-2024 14:19,3,1312.95,437.65,Asia
+T00902,C0009,Joy Clark,ActiveWear Smartwatch,Electronics,P050,10-12-2024 04:57,1,437.65,437.65,Europe
+T00904,C0155,Michelle Brown,ActiveWear Smartwatch,Electronics,P050,1/17/2024 3:47,1,437.65,437.65,South America
+T00979,C0112,Brian Adkins,ActiveWear Smartwatch,Electronics,P050,05-08-2024 03:42,3,1312.95,437.65,South America
+T00984,C0156,William Adams,ActiveWear Smartwatch,Electronics,P050,05-04-2024 11:33,4,1750.6,437.65,North America
+T00040,C0177,Julia Kelly,ActiveWear Cookbook,Books,P030,6/27/2024 19:13,4,1111.44,277.86,Asia
+T00268,C0170,Logan Harris,ActiveWear Cookbook,Books,P030,5/20/2024 10:53,1,277.86,277.86,Europe
+T00303,C0085,Richard Brown,ActiveWear Cookbook,Books,P030,10-11-2024 20:08,1,277.86,277.86,South America
+T00491,C0136,Kristen Holder,ActiveWear Cookbook,Books,P030,06-07-2024 08:52,4,1111.44,277.86,Asia
+T00511,C0081,Kimberly Turner,ActiveWear Cookbook,Books,P030,5/26/2024 5:56,3,833.58,277.86,Europe
+T00604,C0011,Bryan Mathews,ActiveWear Cookbook,Books,P030,08-10-2024 15:04,1,277.86,277.86,South America
+T00647,C0018,Tyler Haynes,ActiveWear Cookbook,Books,P030,08-03-2024 19:15,4,1111.44,277.86,North America
+T00810,C0046,Beth Cardenas,ActiveWear Cookbook,Books,P030,01-06-2024 13:22,1,277.86,277.86,North America
+T00938,C0087,Travis Campbell,ActiveWear Cookbook,Books,P030,2/21/2024 18:51,3,833.58,277.86,South America
+T00042,C0189,Sherri Dixon,ActiveWear Cookware Set,Home Decor,P025,12/21/2024 2:16,2,569.24,284.62,North America
+T00074,C0041,Lindsey Deleon,ActiveWear Cookware Set,Home Decor,P025,03-10-2024 02:20,3,853.86,284.62,Europe
+T00304,C0174,Tracy Steele,ActiveWear Cookware Set,Home Decor,P025,12-12-2024 13:59,1,284.62,284.62,South America
+T00331,C0005,Laura Weber,ActiveWear Cookware Set,Home Decor,P025,05-05-2024 13:03,3,853.86,284.62,Asia
+T00456,C0004,Kathleen Rodriguez,ActiveWear Cookware Set,Home Decor,P025,12-12-2024 03:38,2,569.24,284.62,South America
+T00462,C0003,Michael Rivera,ActiveWear Cookware Set,Home Decor,P025,06-03-2024 19:17,3,853.86,284.62,South America
+T00573,C0162,Edwin Watson,ActiveWear Cookware Set,Home Decor,P025,11/17/2024 4:21,3,853.86,284.62,Asia
+T00580,C0141,Paul Parsons,ActiveWear Cookware Set,Home Decor,P025,04-09-2024 07:28,1,284.62,284.62,Europe
+T00658,C0021,Robert Blanchard,ActiveWear Cookware Set,Home Decor,P025,1/16/2024 11:22,1,284.62,284.62,Asia
+T00832,C0064,Martha Montgomery,ActiveWear Cookware Set,Home Decor,P025,05-07-2024 01:08,3,853.86,284.62,Europe
+T00842,C0055,Lauren Williams,ActiveWear Cookware Set,Home Decor,P025,1/24/2024 6:58,4,1138.48,284.62,North America
+T00864,C0096,Benjamin Mcclure,ActiveWear Cookware Set,Home Decor,P025,8/22/2024 5:45,4,1138.48,284.62,South America
+T00043,C0049,Jason Yates,SoundWave Headphones,Electronics,P027,03-02-2024 16:59,4,916.24,229.06,North America
+T00141,C0039,Angela Harris,SoundWave Headphones,Electronics,P027,07-08-2024 19:55,3,687.18,229.06,South America
+T00178,C0173,Francisco Young,SoundWave Headphones,Electronics,P027,01-05-2024 13:14,2,458.12,229.06,Asia
+T00275,C0018,Tyler Haynes,SoundWave Headphones,Electronics,P027,2/17/2024 18:50,4,916.24,229.06,North America
+T00326,C0019,Brandon Rodriguez,SoundWave Headphones,Electronics,P027,6/14/2024 11:41,3,687.18,229.06,Europe
+T00337,C0064,Martha Montgomery,SoundWave Headphones,Electronics,P027,01-07-2024 16:11,4,916.24,229.06,Europe
+T00453,C0034,Dalton Perez,SoundWave Headphones,Electronics,P027,07-10-2024 19:53,4,916.24,229.06,North America
+T00739,C0098,Laura Gilbert,SoundWave Headphones,Electronics,P027,4/26/2024 7:31,2,458.12,229.06,North America
+T00787,C0026,Sara Miller,SoundWave Headphones,Electronics,P027,06-04-2024 00:03,4,916.24,229.06,North America
+T00871,C0084,Belinda Garner,SoundWave Headphones,Electronics,P027,03-12-2024 11:15,4,916.24,229.06,Asia
+T00951,C0197,Christina Harvey,SoundWave Headphones,Electronics,P027,12/27/2024 18:20,2,458.12,229.06,Europe
+T00045,C0113,Joseph Ortiz Jr.,HomeSense Rug,Home Decor,P078,07-09-2024 02:53,4,164.72,41.18,South America
+T00123,C0113,Joseph Ortiz Jr.,HomeSense Rug,Home Decor,P078,7/25/2024 17:05,2,82.36,41.18,South America
+T00164,C0062,Jeffery Hartman,HomeSense Rug,Home Decor,P078,07-10-2024 08:49,3,123.54,41.18,Europe
+T00186,C0098,Laura Gilbert,HomeSense Rug,Home Decor,P078,04-02-2024 07:44,1,41.18,41.18,North America
+T00431,C0067,Carl Gonzalez,HomeSense Rug,Home Decor,P078,8/15/2024 0:55,3,123.54,41.18,North America
+T00515,C0190,Alexander Lowe,HomeSense Rug,Home Decor,P078,12/14/2024 0:46,1,41.18,41.18,South America
+T00522,C0160,Jodi Cook,HomeSense Rug,Home Decor,P078,03-03-2024 09:40,4,164.72,41.18,North America
+T00592,C0060,James Murphy,HomeSense Rug,Home Decor,P078,09-03-2024 07:19,2,82.36,41.18,Europe
+T00635,C0166,John Rogers,HomeSense Rug,Home Decor,P078,7/25/2024 2:34,4,164.72,41.18,Europe
+T00816,C0172,Jamie Webb,HomeSense Rug,Home Decor,P078,9/25/2024 6:56,2,82.36,41.18,Europe
+T00048,C0043,Sandy Short MD,HomeSense Sweater,Clothing,P100,4/23/2024 22:46,2,252.68,126.34,Asia
+T00115,C0161,Jessica Warren,HomeSense Sweater,Clothing,P100,03-10-2024 02:22,1,126.34,126.34,Asia
+T00283,C0109,Abigail Jones,HomeSense Sweater,Clothing,P100,7/16/2024 14:50,4,505.36,126.34,North America
+T00301,C0109,Abigail Jones,HomeSense Sweater,Clothing,P100,7/13/2024 8:15,2,252.68,126.34,North America
+T00740,C0156,William Adams,HomeSense Sweater,Clothing,P100,8/24/2024 19:10,4,505.36,126.34,North America
+T00820,C0077,Scott Sims,HomeSense Sweater,Clothing,P100,03-11-2024 10:55,2,252.68,126.34,South America
+T00049,C0148,Matthew Rogers,TechPro Smartwatch,Electronics,P039,6/23/2024 14:05,3,1291.77,430.59,South America
+T00086,C0168,Karen Clements MD,TechPro Smartwatch,Electronics,P039,7/14/2024 14:57,3,1291.77,430.59,South America
+T00090,C0072,Sarah Scott,TechPro Smartwatch,Electronics,P039,03-10-2024 16:04,4,1722.36,430.59,North America
+T00198,C0048,Matthew Park,TechPro Smartwatch,Electronics,P039,9/17/2024 7:53,1,430.59,430.59,South America
+T00256,C0192,Sarah Arias,TechPro Smartwatch,Electronics,P039,7/30/2024 12:47,3,1291.77,430.59,South America
+T00348,C0005,Laura Weber,TechPro Smartwatch,Electronics,P039,3/15/2024 4:08,2,861.18,430.59,Asia
+T00391,C0096,Benjamin Mcclure,TechPro Smartwatch,Electronics,P039,08-02-2024 09:54,4,1722.36,430.59,South America
+T00472,C0016,Emily Woods,TechPro Smartwatch,Electronics,P039,07-02-2024 06:30,1,430.59,430.59,North America
+T00480,C0102,Michael Atkinson,TechPro Smartwatch,Electronics,P039,08-02-2024 03:34,3,1291.77,430.59,South America
+T00523,C0114,Benjamin Anderson,TechPro Smartwatch,Electronics,P039,3/15/2024 12:05,3,1291.77,430.59,Europe
+T00555,C0088,Carlos Murray,TechPro Smartwatch,Electronics,P039,12/15/2024 4:43,1,430.59,430.59,Asia
+T00665,C0053,Albert Burke,TechPro Smartwatch,Electronics,P039,11-01-2024 12:16,4,1722.36,430.59,Europe
+T00050,C0124,Lindsay Perez,ActiveWear Running Shoes,Clothing,P016,10-07-2024 07:58,1,330.05,330.05,Europe
+T00056,C0192,Sarah Arias,ActiveWear Running Shoes,Clothing,P016,02-07-2024 14:37,1,330.05,330.05,South America
+T00167,C0153,Justin Smith,ActiveWear Running Shoes,Clothing,P016,07-05-2024 11:53,3,990.15,330.05,South America
+T00368,C0190,Alexander Lowe,ActiveWear Running Shoes,Clothing,P016,5/16/2024 9:05,4,1320.2,330.05,South America
+T00579,C0051,Nicholas Ellis,ActiveWear Running Shoes,Clothing,P016,12/16/2024 17:36,1,330.05,330.05,Europe
+T00683,C0111,Roger David,ActiveWear Running Shoes,Clothing,P016,1/27/2024 21:34,4,1320.2,330.05,Europe
+T00700,C0016,Emily Woods,ActiveWear Running Shoes,Clothing,P016,8/15/2024 10:18,1,330.05,330.05,North America
+T00802,C0046,Beth Cardenas,ActiveWear Running Shoes,Clothing,P016,9/25/2024 1:45,3,990.15,330.05,North America
+T00942,C0105,Ryan Hampton,ActiveWear Running Shoes,Clothing,P016,6/19/2024 6:55,4,1320.2,330.05,Europe
+T00051,C0097,Tina Ford,HomeSense Wall Art,Home Decor,P022,3/23/2024 5:58,1,137.54,137.54,Asia
+T00160,C0065,Gerald Hines,HomeSense Wall Art,Home Decor,P022,7/29/2024 6:59,3,412.62,137.54,North America
+T00252,C0154,Robert Sharp,HomeSense Wall Art,Home Decor,P022,06-12-2024 22:59,1,137.54,137.54,North America
+T00271,C0035,Brianna Richardson,HomeSense Wall Art,Home Decor,P022,4/29/2024 19:45,3,412.62,137.54,North America
+T00296,C0179,Donald Miller,HomeSense Wall Art,Home Decor,P022,7/23/2024 9:15,3,412.62,137.54,Europe
+T00300,C0160,Jodi Cook,HomeSense Wall Art,Home Decor,P022,8/16/2024 8:44,4,550.16,137.54,North America
+T00414,C0194,Stacy Cook,HomeSense Wall Art,Home Decor,P022,3/31/2024 3:46,3,412.62,137.54,North America
+T00481,C0188,Anna Ball,HomeSense Wall Art,Home Decor,P022,8/30/2024 20:51,3,412.62,137.54,South America
+T00509,C0025,Gregory Odom,HomeSense Wall Art,Home Decor,P022,8/13/2024 22:51,1,137.54,137.54,South America
+T00612,C0140,Gregory Estrada,HomeSense Wall Art,Home Decor,P022,10/15/2024 18:21,1,137.54,137.54,Asia
+T00742,C0124,Lindsay Perez,HomeSense Wall Art,Home Decor,P022,3/23/2024 5:53,2,275.08,137.54,Europe
+T00761,C0199,Andrea Jenkins,HomeSense Wall Art,Home Decor,P022,10-01-2024 05:57,4,550.16,137.54,Europe
+T00886,C0104,Laura Bennett,HomeSense Wall Art,Home Decor,P022,10/28/2024 14:36,3,412.62,137.54,South America
+T00895,C0121,Mark Atkinson,HomeSense Wall Art,Home Decor,P022,05-03-2024 18:35,3,412.62,137.54,Europe
+T00932,C0001,Lawrence Carroll,HomeSense Wall Art,Home Decor,P022,9/17/2024 9:01,3,412.62,137.54,South America
+T00054,C0085,Richard Brown,SoundWave Rug,Home Decor,P021,02-05-2024 07:45,3,1007.52,335.84,South America
+T00075,C0039,Angela Harris,SoundWave Rug,Home Decor,P021,10/27/2024 13:50,3,1007.52,335.84,South America
+T00299,C0098,Laura Gilbert,SoundWave Rug,Home Decor,P021,8/27/2024 22:57,1,335.84,335.84,North America
+T00440,C0136,Kristen Holder,SoundWave Rug,Home Decor,P021,7/24/2024 0:20,3,1007.52,335.84,Asia
+T00457,C0158,Wendy Browning,SoundWave Rug,Home Decor,P021,7/18/2024 20:01,1,335.84,335.84,South America
+T00687,C0182,Joshua Preston,SoundWave Rug,Home Decor,P021,3/31/2024 22:56,4,1343.36,335.84,Europe
+T00737,C0157,Miguel Wong,SoundWave Rug,Home Decor,P021,5/19/2024 6:37,1,335.84,335.84,North America
+T00763,C0185,Kathleen Logan,SoundWave Rug,Home Decor,P021,4/14/2024 23:09,3,1007.52,335.84,North America
+T00807,C0086,Stephanie Peterson,SoundWave Rug,Home Decor,P021,10/23/2024 17:24,1,335.84,335.84,Europe
+T00857,C0080,David Gonzalez,SoundWave Rug,Home Decor,P021,03-12-2024 15:48,3,1007.52,335.84,Asia
+T00877,C0137,Robert Gardner,SoundWave Rug,Home Decor,P021,1/31/2024 15:36,2,671.68,335.84,South America
+T00055,C0177,Julia Kelly,ActiveWear Headphones,Electronics,P072,06-12-2024 20:54,2,798.68,399.34,Asia
+T00162,C0045,Michael Williams,ActiveWear Headphones,Electronics,P072,8/26/2024 13:10,3,1198.02,399.34,Asia
+T00172,C0021,Robert Blanchard,ActiveWear Headphones,Electronics,P072,7/14/2024 6:50,2,798.68,399.34,Asia
+T00529,C0152,Justin Evans,ActiveWear Headphones,Electronics,P072,10/21/2024 6:20,3,1198.02,399.34,South America
+T00929,C0068,Mark Cox,ActiveWear Headphones,Electronics,P072,12/24/2024 23:45,3,1198.02,399.34,North America
+T00994,C0040,Michael Harrell,ActiveWear Headphones,Electronics,P072,01-06-2024 21:49,2,798.68,399.34,Asia
+T00057,C0062,Jeffery Hartman,SoundWave Jeans,Clothing,P059,07-03-2024 07:10,3,909.6,303.2,Europe
+T00062,C0009,Joy Clark,SoundWave Jeans,Clothing,P059,10-12-2024 06:41,1,303.2,303.2,Europe
+T00131,C0029,Erin Manning,SoundWave Jeans,Clothing,P059,6/13/2024 2:56,1,303.2,303.2,North America
+T00188,C0195,Jeremy Mclaughlin,SoundWave Jeans,Clothing,P059,5/21/2024 3:08,3,909.6,303.2,South America
+T00282,C0145,Wayne Stone,SoundWave Jeans,Clothing,P059,11/26/2024 7:35,1,303.2,303.2,Asia
+T00284,C0022,Teresa Esparza,SoundWave Jeans,Clothing,P059,1/15/2024 7:06,4,1212.8,303.2,Asia
+T00295,C0087,Travis Campbell,SoundWave Jeans,Clothing,P059,7/22/2024 9:54,3,909.6,303.2,South America
+T00377,C0179,Donald Miller,SoundWave Jeans,Clothing,P059,1/22/2024 19:36,1,303.2,303.2,Europe
+T00400,C0175,Matthew Johnson,SoundWave Jeans,Clothing,P059,4/24/2024 0:16,2,606.4,303.2,Asia
+T00638,C0100,Clinton Gomez,SoundWave Jeans,Clothing,P059,4/27/2024 5:29,3,909.6,303.2,Europe
+T00674,C0024,Michele Cooley,SoundWave Jeans,Clothing,P059,4/14/2024 1:19,3,909.6,303.2,North America
+T00702,C0104,Laura Bennett,SoundWave Jeans,Clothing,P059,5/20/2024 13:15,4,1212.8,303.2,South America
+T00705,C0027,Justin Heath,SoundWave Jeans,Clothing,P059,06-08-2024 07:23,4,1212.8,303.2,Asia
+T00775,C0156,William Adams,SoundWave Jeans,Clothing,P059,10-05-2024 06:56,1,303.2,303.2,North America
+T00806,C0062,Jeffery Hartman,SoundWave Jeans,Clothing,P059,01-04-2024 21:05,2,606.4,303.2,Europe
+T00854,C0017,Jennifer King,SoundWave Jeans,Clothing,P059,7/14/2024 10:29,1,303.2,303.2,Europe
+T00882,C0156,William Adams,SoundWave Jeans,Clothing,P059,9/21/2024 14:11,3,909.6,303.2,North America
+T00906,C0129,Marcus Livingston,SoundWave Jeans,Clothing,P059,10-10-2024 12:25,4,1212.8,303.2,South America
+T00948,C0098,Laura Gilbert,SoundWave Jeans,Clothing,P059,1/20/2024 12:30,2,606.4,303.2,North America
+T00058,C0106,Amanda Mcguire,SoundWave Headphones,Electronics,P031,9/18/2024 9:38,2,392.8,196.4,Asia
+T00653,C0028,Jennifer Pena,SoundWave Headphones,Electronics,P031,07-12-2024 13:17,4,785.6,196.4,Asia
+T00792,C0105,Ryan Hampton,SoundWave Headphones,Electronics,P031,01-11-2024 06:02,1,196.4,196.4,Europe
+T00815,C0008,David Li,SoundWave Headphones,Electronics,P031,3/26/2024 20:30,2,392.8,196.4,North America
+T00059,C0107,Dana Cantrell,ActiveWear Headphones,Electronics,P042,6/29/2024 13:17,1,379.44,379.44,South America
+T00344,C0047,Samantha Frank,ActiveWear Headphones,Electronics,P042,1/17/2024 10:01,3,1138.32,379.44,North America
+T00484,C0013,Lauren Buchanan,ActiveWear Headphones,Electronics,P042,2/24/2024 20:08,2,758.88,379.44,South America
+T00514,C0032,Dustin Campbell,ActiveWear Headphones,Electronics,P042,11/27/2024 20:42,1,379.44,379.44,South America
+T00693,C0122,Corey Ruiz,ActiveWear Headphones,Electronics,P042,12/17/2024 19:17,4,1517.76,379.44,North America
+T00695,C0090,Charles Hamilton,ActiveWear Headphones,Electronics,P042,09-11-2024 19:59,3,1138.32,379.44,Asia
+T00861,C0141,Paul Parsons,ActiveWear Headphones,Electronics,P042,9/26/2024 21:52,4,1517.76,379.44,Europe
+T00973,C0084,Belinda Garner,ActiveWear Headphones,Electronics,P042,07-12-2024 22:15,3,1138.32,379.44,Asia
+T00060,C0054,Bruce Rhodes,SoundWave Desk Lamp,Home Decor,P074,05-06-2024 13:06,4,1182.32,295.58,Asia
+T00152,C0144,Andrea Hart,SoundWave Desk Lamp,Home Decor,P074,4/17/2024 1:46,4,1182.32,295.58,North America
+T00217,C0047,Samantha Frank,SoundWave Desk Lamp,Home Decor,P074,2/28/2024 6:05,1,295.58,295.58,North America
+T00223,C0163,Tiffany Cain,SoundWave Desk Lamp,Home Decor,P074,4/29/2024 10:25,1,295.58,295.58,South America
+T00250,C0045,Michael Williams,SoundWave Desk Lamp,Home Decor,P074,7/14/2024 11:42,4,1182.32,295.58,Asia
+T00325,C0152,Justin Evans,SoundWave Desk Lamp,Home Decor,P074,6/22/2024 20:59,1,295.58,295.58,South America
+T00382,C0163,Tiffany Cain,SoundWave Desk Lamp,Home Decor,P074,03-01-2024 16:19,4,1182.32,295.58,South America
+T00438,C0037,Linda Smith,SoundWave Desk Lamp,Home Decor,P074,7/15/2024 16:33,3,886.74,295.58,Europe
+T00537,C0012,Kevin May,SoundWave Desk Lamp,Home Decor,P074,12/25/2024 8:03,1,295.58,295.58,South America
+T00743,C0172,Jamie Webb,SoundWave Desk Lamp,Home Decor,P074,1/21/2024 13:21,3,886.74,295.58,Europe
+T00796,C0166,John Rogers,SoundWave Desk Lamp,Home Decor,P074,08-12-2024 05:20,3,886.74,295.58,Europe
+T00839,C0089,Paul Carter,SoundWave Desk Lamp,Home Decor,P074,12-03-2024 21:30,3,886.74,295.58,Europe
+T00885,C0170,Logan Harris,SoundWave Desk Lamp,Home Decor,P074,9/13/2024 7:08,3,886.74,295.58,Europe
+T00061,C0126,Caitlin Brown,BookWorld Cookbook,Books,P032,1/16/2024 0:42,2,977.26,488.63,South America
+T00116,C0127,Kathryn Stevens,BookWorld Cookbook,Books,P032,8/15/2024 21:51,1,488.63,488.63,Europe
+T00319,C0139,Ricky Gutierrez,BookWorld Cookbook,Books,P032,1/17/2024 9:48,1,488.63,488.63,North America
+T00320,C0179,Donald Miller,BookWorld Cookbook,Books,P032,04-06-2024 16:23,3,1465.89,488.63,Europe
+T00465,C0173,Francisco Young,BookWorld Cookbook,Books,P032,5/24/2024 16:11,2,977.26,488.63,Asia
+T00499,C0065,Gerald Hines,BookWorld Cookbook,Books,P032,7/18/2024 2:51,4,1954.52,488.63,North America
+T00513,C0023,Nicholas Cain,BookWorld Cookbook,Books,P032,11-11-2024 10:44,2,977.26,488.63,Europe
+T00577,C0082,Aimee Taylor,BookWorld Cookbook,Books,P032,10/19/2024 0:46,2,977.26,488.63,South America
+T00821,C0050,Ryan Davis,BookWorld Cookbook,Books,P032,04-04-2024 14:19,2,977.26,488.63,North America
+T00867,C0171,Michael Cowan,BookWorld Cookbook,Books,P032,10/23/2024 16:23,3,1465.89,488.63,South America
+T00987,C0015,Tina Duran,BookWorld Cookbook,Books,P032,02-10-2024 12:35,1,488.63,488.63,North America
+T00064,C0037,Linda Smith,BookWorld Wall Art,Home Decor,P009,9/15/2024 3:50,1,325.01,325.01,Europe
+T00311,C0129,Marcus Livingston,BookWorld Wall Art,Home Decor,P009,9/30/2024 0:40,2,650.02,325.01,South America
+T00397,C0187,Kayla Kelly,BookWorld Wall Art,Home Decor,P009,07-04-2024 05:29,1,325.01,325.01,South America
+T00477,C0162,Edwin Watson,BookWorld Wall Art,Home Decor,P009,10/14/2024 15:50,3,975.03,325.01,Asia
+T00530,C0079,Brian Murillo,BookWorld Wall Art,Home Decor,P009,05-02-2024 00:31,2,650.02,325.01,North America
+T00651,C0172,Jamie Webb,BookWorld Wall Art,Home Decor,P009,06-12-2024 22:33,2,650.02,325.01,Europe
+T00677,C0100,Clinton Gomez,BookWorld Wall Art,Home Decor,P009,03-05-2024 23:39,4,1300.04,325.01,Europe
+T00065,C0049,Jason Yates,HomeSense Sweater,Clothing,P081,02-01-2024 19:05,1,66.32,66.32,North America
+T00081,C0077,Scott Sims,HomeSense Sweater,Clothing,P081,11-02-2024 19:35,4,265.28,66.32,South America
+T00092,C0189,Sherri Dixon,HomeSense Sweater,Clothing,P081,4/15/2024 1:10,3,198.96,66.32,North America
+T00103,C0091,Lisa Kirk,HomeSense Sweater,Clothing,P081,8/13/2024 3:22,4,265.28,66.32,South America
+T00111,C0082,Aimee Taylor,HomeSense Sweater,Clothing,P081,9/16/2024 22:57,4,265.28,66.32,South America
+T00387,C0173,Francisco Young,HomeSense Sweater,Clothing,P081,5/18/2024 16:57,3,198.96,66.32,Asia
+T00486,C0111,Roger David,HomeSense Sweater,Clothing,P081,07-03-2024 07:27,4,265.28,66.32,Europe
+T00512,C0183,Kimberly Johnson,HomeSense Sweater,Clothing,P081,01-08-2024 13:41,1,66.32,66.32,North America
+T00668,C0053,Albert Burke,HomeSense Sweater,Clothing,P081,1/21/2024 8:08,2,132.64,66.32,Europe
+T00715,C0033,Tyler Holt,HomeSense Sweater,Clothing,P081,07-05-2024 23:41,2,132.64,66.32,North America
+T00898,C0108,David Davis,HomeSense Sweater,Clothing,P081,7/26/2024 21:44,1,66.32,66.32,South America
+T00939,C0010,Aaron Cox,HomeSense Sweater,Clothing,P081,3/29/2024 7:04,3,198.96,66.32,Europe
+T00960,C0147,Hunter Fuller,HomeSense Sweater,Clothing,P081,09-10-2024 12:40,1,66.32,66.32,South America
+T00066,C0041,Lindsey Deleon,SoundWave Desk Lamp,Home Decor,P011,1/21/2024 22:41,4,1044.8,261.2,Europe
+T00415,C0169,Jennifer Shaw,SoundWave Desk Lamp,Home Decor,P011,3/13/2024 6:04,4,1044.8,261.2,South America
+T00521,C0148,Matthew Rogers,SoundWave Desk Lamp,Home Decor,P011,06-11-2024 02:31,4,1044.8,261.2,South America
+T00601,C0161,Jessica Warren,SoundWave Desk Lamp,Home Decor,P011,8/15/2024 3:06,1,261.2,261.2,Asia
+T00698,C0119,David Armstrong,SoundWave Desk Lamp,Home Decor,P011,12/26/2024 21:34,1,261.2,261.2,Europe
+T00712,C0134,Theresa Gonzalez,SoundWave Desk Lamp,Home Decor,P011,9/23/2024 6:44,3,783.6,261.2,Asia
+T00848,C0108,David Davis,SoundWave Desk Lamp,Home Decor,P011,9/25/2024 1:50,2,522.4,261.2,South America
+T00868,C0039,Angela Harris,SoundWave Desk Lamp,Home Decor,P011,09-08-2024 14:32,4,1044.8,261.2,South America
+T00977,C0136,Kristen Holder,SoundWave Desk Lamp,Home Decor,P011,1/16/2024 15:56,4,1044.8,261.2,Asia
+T00998,C0024,Michele Cooley,SoundWave Desk Lamp,Home Decor,P011,6/19/2024 17:52,2,522.4,261.2,North America
+T00067,C0017,Jennifer King,SoundWave Headphones,Electronics,P096,3/31/2024 19:29,2,614.94,307.47,Europe
+T00085,C0001,Lawrence Carroll,SoundWave Headphones,Electronics,P096,04-08-2024 00:01,2,614.94,307.47,South America
+T00117,C0164,Morgan Perez,SoundWave Headphones,Electronics,P096,3/25/2024 7:41,2,614.94,307.47,Europe
+T00279,C0059,Mrs. Kimberly Wright,SoundWave Headphones,Electronics,P096,09-09-2024 19:42,1,307.47,307.47,North America
+T00350,C0020,Mr. Manuel Conway,SoundWave Headphones,Electronics,P096,1/30/2024 0:57,3,922.41,307.47,North America
+T00467,C0045,Michael Williams,SoundWave Headphones,Electronics,P096,3/16/2024 4:08,3,922.41,307.47,Asia
+T00610,C0021,Robert Blanchard,SoundWave Headphones,Electronics,P096,10-12-2024 03:25,2,614.94,307.47,Asia
+T00645,C0007,Paul Graves,SoundWave Headphones,Electronics,P096,8/25/2024 8:05,3,922.41,307.47,Asia
+T00666,C0044,Kenneth Alexander,SoundWave Headphones,Electronics,P096,6/27/2024 12:03,1,307.47,307.47,Europe
+T00724,C0117,Jeffrey Mcmahon,SoundWave Headphones,Electronics,P096,7/22/2024 23:34,3,922.41,307.47,North America
+T00735,C0104,Laura Bennett,SoundWave Headphones,Electronics,P096,11-04-2024 07:25,4,1229.88,307.47,South America
+T00748,C0119,David Armstrong,SoundWave Headphones,Electronics,P096,10/13/2024 16:15,1,307.47,307.47,Europe
+T00764,C0026,Sara Miller,SoundWave Headphones,Electronics,P096,10-09-2024 13:52,4,1229.88,307.47,North America
+T00794,C0161,Jessica Warren,SoundWave Headphones,Electronics,P096,5/20/2024 6:17,1,307.47,307.47,Asia
+T00819,C0075,Misty Higgins,SoundWave Headphones,Electronics,P096,10-08-2024 21:31,2,614.94,307.47,Europe
+T00070,C0051,Nicholas Ellis,ActiveWear Textbook,Books,P017,12-11-2024 13:46,4,1879.08,469.77,Europe
+T00180,C0073,Heidi Johnson,ActiveWear Textbook,Books,P017,03-11-2024 15:12,2,939.54,469.77,Europe
+T00224,C0171,Michael Cowan,ActiveWear Textbook,Books,P017,07-06-2024 23:53,4,1879.08,469.77,South America
+T00324,C0104,Laura Bennett,ActiveWear Textbook,Books,P017,08-11-2024 07:01,1,469.77,469.77,South America
+T00341,C0011,Bryan Mathews,ActiveWear Textbook,Books,P017,12/26/2024 3:09,2,939.54,469.77,South America
+T00503,C0013,Lauren Buchanan,ActiveWear Textbook,Books,P017,7/26/2024 0:21,4,1879.08,469.77,South America
+T00558,C0169,Jennifer Shaw,ActiveWear Textbook,Books,P017,11/29/2024 23:39,4,1879.08,469.77,South America
+T00571,C0137,Robert Gardner,ActiveWear Textbook,Books,P017,02-01-2024 15:50,2,939.54,469.77,South America
+T00682,C0131,Scott Wilson,ActiveWear Textbook,Books,P017,04-01-2024 10:10,2,939.54,469.77,North America
+T00971,C0023,Nicholas Cain,ActiveWear Textbook,Books,P017,6/22/2024 21:26,1,469.77,469.77,Europe
+T00072,C0167,Brandy Welch,TechPro Cookbook,Books,P048,5/23/2024 19:17,3,1249.2,416.4,Europe
+T00280,C0175,Matthew Johnson,TechPro Cookbook,Books,P048,05-09-2024 17:38,2,832.8,416.4,Asia
+T00298,C0042,Heather Riley,TechPro Cookbook,Books,P048,11-09-2024 20:42,1,416.4,416.4,North America
+T00322,C0099,Rodney Eaton,TechPro Cookbook,Books,P048,2/17/2024 4:23,3,1249.2,416.4,South America
+T00357,C0147,Hunter Fuller,TechPro Cookbook,Books,P048,11/15/2024 23:35,1,416.4,416.4,South America
+T00371,C0155,Michelle Brown,TechPro Cookbook,Books,P048,5/15/2024 23:20,4,1665.6,416.4,South America
+T00548,C0185,Kathleen Logan,TechPro Cookbook,Books,P048,01-06-2024 22:00,3,1249.2,416.4,North America
+T00550,C0154,Robert Sharp,TechPro Cookbook,Books,P048,4/24/2024 5:30,3,1249.2,416.4,North America
+T00608,C0025,Gregory Odom,TechPro Cookbook,Books,P048,6/13/2024 22:53,2,832.8,416.4,South America
+T00657,C0100,Clinton Gomez,TechPro Cookbook,Books,P048,08-04-2024 15:35,1,416.4,416.4,Europe
+T00771,C0200,Kelly Cross,TechPro Cookbook,Books,P048,09-10-2024 09:50,4,1665.6,416.4,Asia
+T00786,C0174,Tracy Steele,TechPro Cookbook,Books,P048,08-07-2024 22:11,4,1665.6,416.4,South America
+T00811,C0141,Paul Parsons,TechPro Cookbook,Books,P048,06-03-2024 23:59,4,1665.6,416.4,Europe
+T00844,C0118,Jacob Holt,TechPro Cookbook,Books,P048,12/18/2024 4:17,4,1665.6,416.4,South America
+T00950,C0068,Mark Cox,TechPro Cookbook,Books,P048,2/28/2024 16:08,4,1665.6,416.4,North America
+T00073,C0183,Kimberly Johnson,SoundWave Jacket,Clothing,P052,11/13/2024 14:33,2,709.62,354.81,North America
+T00101,C0008,David Li,SoundWave Jacket,Clothing,P052,9/16/2024 22:10,4,1419.24,354.81,North America
+T00351,C0169,Jennifer Shaw,SoundWave Jacket,Clothing,P052,12-03-2024 17:26,4,1419.24,354.81,South America
+T00460,C0099,Rodney Eaton,SoundWave Jacket,Clothing,P052,05-02-2024 00:25,2,709.62,354.81,South America
+T00988,C0165,Juan Mcdaniel,SoundWave Jacket,Clothing,P052,09-06-2024 06:43,4,1419.24,354.81,South America
+T00076,C0141,Paul Parsons,BookWorld Sweater,Clothing,P065,9/23/2024 20:32,3,1282.83,427.61,Europe
+T00110,C0084,Belinda Garner,BookWorld Sweater,Clothing,P065,8/13/2024 10:30,2,855.22,427.61,Asia
+T00139,C0118,Jacob Holt,BookWorld Sweater,Clothing,P065,4/13/2024 2:29,1,427.61,427.61,South America
+T00288,C0049,Jason Yates,BookWorld Sweater,Clothing,P065,1/22/2024 14:14,1,427.61,427.61,North America
+T00306,C0021,Robert Blanchard,BookWorld Sweater,Clothing,P065,6/27/2024 23:39,3,1282.83,427.61,Asia
+T00383,C0048,Matthew Park,BookWorld Sweater,Clothing,P065,11/22/2024 19:56,2,855.22,427.61,South America
+T00540,C0034,Dalton Perez,BookWorld Sweater,Clothing,P065,05-08-2024 21:17,2,855.22,427.61,North America
+T00569,C0107,Dana Cantrell,BookWorld Sweater,Clothing,P065,10/22/2024 12:54,3,1282.83,427.61,South America
+T00585,C0056,Erika Fernandez,BookWorld Sweater,Clothing,P065,1/31/2024 8:26,2,855.22,427.61,Asia
+T00888,C0055,Lauren Williams,BookWorld Sweater,Clothing,P065,5/24/2024 9:36,2,855.22,427.61,North America
+T00892,C0022,Teresa Esparza,BookWorld Sweater,Clothing,P065,04-06-2024 10:33,4,1710.44,427.61,Asia
+T00077,C0192,Sarah Arias,TechPro Novel,Books,P063,6/15/2024 17:12,3,100.77,33.59,South America
+T00104,C0174,Tracy Steele,TechPro Novel,Books,P063,01-12-2024 03:22,3,100.77,33.59,South America
+T00216,C0193,Douglas Torres,TechPro Novel,Books,P063,3/22/2024 19:50,3,100.77,33.59,Asia
+T00353,C0012,Kevin May,TechPro Novel,Books,P063,10/22/2024 21:55,1,33.59,33.59,South America
+T00378,C0175,Matthew Johnson,TechPro Novel,Books,P063,08-03-2024 22:08,3,100.77,33.59,Asia
+T00413,C0021,Robert Blanchard,TechPro Novel,Books,P063,1/24/2024 18:23,3,100.77,33.59,Asia
+T00459,C0075,Misty Higgins,TechPro Novel,Books,P063,1/17/2024 1:36,4,134.36,33.59,Europe
+T00760,C0090,Charles Hamilton,TechPro Novel,Books,P063,01-03-2024 18:25,1,33.59,33.59,Asia
+T00853,C0098,Laura Gilbert,TechPro Novel,Books,P063,12/23/2024 18:36,4,134.36,33.59,North America
+T00078,C0011,Bryan Mathews,HomeSense Bluetooth Speaker,Electronics,P089,3/23/2024 2:59,3,662.73,220.91,South America
+T00153,C0094,Emily Trevino,HomeSense Bluetooth Speaker,Electronics,P089,11-05-2024 07:32,3,662.73,220.91,North America
+T00245,C0120,Francisco Diaz,HomeSense Bluetooth Speaker,Electronics,P089,4/28/2024 20:01,4,883.64,220.91,South America
+T00291,C0109,Abigail Jones,HomeSense Bluetooth Speaker,Electronics,P089,1/27/2024 6:14,2,441.82,220.91,North America
+T00390,C0113,Joseph Ortiz Jr.,HomeSense Bluetooth Speaker,Electronics,P089,02-04-2024 07:33,4,883.64,220.91,South America
+T00773,C0068,Mark Cox,HomeSense Bluetooth Speaker,Electronics,P089,12-08-2024 14:38,3,662.73,220.91,North America
+T00883,C0170,Logan Harris,HomeSense Bluetooth Speaker,Electronics,P089,05-10-2024 03:22,4,883.64,220.91,Europe
+T00082,C0127,Kathryn Stevens,SoundWave Headphones,Electronics,P088,8/25/2024 5:43,1,263.55,263.55,Europe
+T00130,C0191,Samantha Gibson DVM,SoundWave Headphones,Electronics,P088,8/15/2024 13:06,1,263.55,263.55,South America
+T00424,C0114,Benjamin Anderson,SoundWave Headphones,Electronics,P088,9/23/2024 4:35,4,1054.2,263.55,Europe
+T00461,C0072,Sarah Scott,SoundWave Headphones,Electronics,P088,9/17/2024 3:59,1,263.55,263.55,North America
+T00556,C0050,Ryan Davis,SoundWave Headphones,Electronics,P088,11/17/2024 17:56,3,790.65,263.55,North America
+T00751,C0096,Benjamin Mcclure,SoundWave Headphones,Electronics,P088,03-11-2024 17:07,2,527.1,263.55,South America
+T00954,C0179,Donald Miller,SoundWave Headphones,Electronics,P088,10-10-2024 04:15,4,1054.2,263.55,Europe
+T00985,C0068,Mark Cox,SoundWave Headphones,Electronics,P088,7/30/2024 21:37,2,527.1,263.55,North America
+T00083,C0046,Beth Cardenas,SoundWave Textbook,Books,P066,04-08-2024 10:34,4,1348.88,337.22,North America
+T00195,C0023,Nicholas Cain,SoundWave Textbook,Books,P066,11-02-2024 10:20,1,337.22,337.22,Europe
+T00225,C0126,Caitlin Brown,SoundWave Textbook,Books,P066,6/20/2024 4:11,3,1011.66,337.22,South America
+T00267,C0037,Linda Smith,SoundWave Textbook,Books,P066,6/30/2024 0:11,3,1011.66,337.22,Europe
+T00505,C0147,Hunter Fuller,SoundWave Textbook,Books,P066,7/29/2024 19:28,2,674.44,337.22,South America
+T00596,C0175,Matthew Johnson,SoundWave Textbook,Books,P066,9/30/2024 11:36,1,337.22,337.22,Asia
+T00609,C0094,Emily Trevino,SoundWave Textbook,Books,P066,3/19/2024 1:04,1,337.22,337.22,North America
+T00623,C0146,Brittany Harvey,SoundWave Textbook,Books,P066,07-12-2024 10:03,3,1011.66,337.22,Asia
+T00838,C0101,Kelsey Roberts,SoundWave Textbook,Books,P066,7/24/2024 17:40,1,337.22,337.22,Asia
+T00921,C0017,Jennifer King,SoundWave Textbook,Books,P066,12-01-2024 22:55,4,1348.88,337.22,Europe
+T00924,C0116,James Martinez,SoundWave Textbook,Books,P066,04-02-2024 00:16,1,337.22,337.22,North America
+T00084,C0045,Michael Williams,HomeSense Headphones,Electronics,P015,08-02-2024 13:45,4,635.72,158.93,Asia
+T00114,C0068,Mark Cox,HomeSense Headphones,Electronics,P015,5/28/2024 18:07,1,158.93,158.93,North America
+T00333,C0101,Kelsey Roberts,HomeSense Headphones,Electronics,P015,12/28/2024 11:00,3,476.79,158.93,Asia
+T00526,C0156,William Adams,HomeSense Headphones,Electronics,P015,01-01-2024 16:46,4,635.72,158.93,North America
+T00599,C0013,Lauren Buchanan,HomeSense Headphones,Electronics,P015,8/15/2024 20:46,1,158.93,158.93,South America
+T00801,C0021,Robert Blanchard,HomeSense Headphones,Electronics,P015,02-06-2024 03:27,1,158.93,158.93,Asia
+T00893,C0101,Kelsey Roberts,HomeSense Headphones,Electronics,P015,3/24/2024 16:37,1,158.93,158.93,Asia
+T00989,C0129,Marcus Livingston,HomeSense Headphones,Electronics,P015,5/28/2024 14:48,3,476.79,158.93,South America
+T00088,C0019,Brandon Rodriguez,ActiveWear Biography,Books,P001,1/30/2024 17:23,2,338.6,169.3,Europe
+T00314,C0024,Michele Cooley,ActiveWear Biography,Books,P001,9/24/2024 17:15,4,677.2,169.3,North America
+T00428,C0071,Taylor Murphy,ActiveWear Biography,Books,P001,08-02-2024 08:13,2,338.6,169.3,South America
+T00433,C0036,Brian Aguilar DDS,ActiveWear Biography,Books,P001,05-05-2024 05:01,2,338.6,169.3,North America
+T00449,C0191,Samantha Gibson DVM,ActiveWear Biography,Books,P001,12-12-2024 12:17,1,169.3,169.3,South America
+T00545,C0105,Ryan Hampton,ActiveWear Biography,Books,P001,6/24/2024 10:10,2,338.6,169.3,Europe
+T00732,C0045,Michael Williams,ActiveWear Biography,Books,P001,8/13/2024 10:42,2,338.6,169.3,Asia
+T00758,C0017,Jennifer King,ActiveWear Biography,Books,P001,5/28/2024 14:47,3,507.9,169.3,Europe
+T00095,C0189,Sherri Dixon,TechPro Vase,Home Decor,P093,9/13/2024 18:57,2,609.88,304.94,North America
+T00211,C0007,Paul Graves,TechPro Vase,Home Decor,P093,3/29/2024 14:35,4,1219.76,304.94,Asia
+T00335,C0118,Jacob Holt,TechPro Vase,Home Decor,P093,04-06-2024 09:26,2,609.88,304.94,South America
+T00547,C0079,Brian Murillo,TechPro Vase,Home Decor,P093,7/30/2024 23:32,4,1219.76,304.94,North America
+T00586,C0179,Donald Miller,TechPro Vase,Home Decor,P093,8/31/2024 22:33,1,304.94,304.94,Europe
+T00629,C0100,Clinton Gomez,TechPro Vase,Home Decor,P093,04-06-2024 10:30,1,304.94,304.94,Europe
+T00630,C0031,Tina Miller,TechPro Vase,Home Decor,P093,10-08-2024 23:58,2,609.88,304.94,South America
+T00899,C0141,Paul Parsons,TechPro Vase,Home Decor,P093,4/30/2024 17:03,1,304.94,304.94,Europe
+T00096,C0161,Jessica Warren,ComfortLiving Laptop,Electronics,P073,3/23/2024 0:07,3,80.97,26.99,Asia
+T00277,C0029,Erin Manning,ComfortLiving Laptop,Electronics,P073,10-01-2024 17:22,4,107.96,26.99,North America
+T00317,C0111,Roger David,ComfortLiving Laptop,Electronics,P073,6/19/2024 15:07,4,107.96,26.99,Europe
+T00336,C0147,Hunter Fuller,ComfortLiving Laptop,Electronics,P073,11/16/2024 15:45,3,80.97,26.99,South America
+T00388,C0081,Kimberly Turner,ComfortLiving Laptop,Electronics,P073,04-11-2024 01:44,1,26.99,26.99,Europe
+T00494,C0055,Lauren Williams,ComfortLiving Laptop,Electronics,P073,10-01-2024 04:39,2,53.98,26.99,North America
+T00519,C0054,Bruce Rhodes,ComfortLiving Laptop,Electronics,P073,06-02-2024 10:00,2,53.98,26.99,Asia
+T00583,C0198,Rebecca Ray,ComfortLiving Laptop,Electronics,P073,10-04-2024 18:31,1,26.99,26.99,Europe
+T00661,C0049,Jason Yates,ComfortLiving Laptop,Electronics,P073,5/25/2024 20:16,2,53.98,26.99,North America
+T00955,C0149,Tina Wilson,ComfortLiving Laptop,Electronics,P073,8/29/2024 14:05,2,53.98,26.99,Europe
+T00099,C0103,Jennifer Munoz,ActiveWear Rug,Home Decor,P006,9/30/2024 23:30,1,121.32,121.32,Europe
+T00134,C0051,Nicholas Ellis,ActiveWear Rug,Home Decor,P006,01-03-2024 04:06,2,242.64,121.32,Europe
+T00143,C0003,Michael Rivera,ActiveWear Rug,Home Decor,P006,6/16/2024 5:24,3,363.96,121.32,South America
+T00181,C0181,Alexander Barker,ActiveWear Rug,Home Decor,P006,7/21/2024 3:18,4,485.28,121.32,South America
+T00226,C0139,Ricky Gutierrez,ActiveWear Rug,Home Decor,P006,10-02-2024 16:46,2,242.64,121.32,North America
+T00273,C0134,Theresa Gonzalez,ActiveWear Rug,Home Decor,P006,4/14/2024 11:32,4,485.28,121.32,Asia
+T00321,C0017,Jennifer King,ActiveWear Rug,Home Decor,P006,6/20/2024 4:13,3,363.96,121.32,Europe
+T00389,C0081,Kimberly Turner,ActiveWear Rug,Home Decor,P006,1/20/2024 4:23,3,363.96,121.32,Europe
+T00478,C0124,Lindsay Perez,ActiveWear Rug,Home Decor,P006,04-12-2024 12:07,4,485.28,121.32,Europe
+T00506,C0053,Albert Burke,ActiveWear Rug,Home Decor,P006,9/18/2024 23:31,1,121.32,121.32,Europe
+T00613,C0037,Linda Smith,ActiveWear Rug,Home Decor,P006,9/30/2024 18:17,3,363.96,121.32,Europe
+T00679,C0138,Cynthia Clayton,ActiveWear Rug,Home Decor,P006,09-06-2024 20:35,4,485.28,121.32,Asia
+T00772,C0104,Laura Bennett,ActiveWear Rug,Home Decor,P006,6/16/2024 21:51,2,242.64,121.32,South America
+T00108,C0177,Julia Kelly,BookWorld Biography,Books,P055,11-04-2024 03:30,1,128.53,128.53,Asia
+T00255,C0107,Dana Cantrell,BookWorld Biography,Books,P055,2/27/2024 16:51,4,514.12,128.53,South America
+T00429,C0030,Mark Brock,BookWorld Biography,Books,P055,12/15/2024 1:23,3,385.59,128.53,North America
+T00463,C0142,Nicole Long DVM,BookWorld Biography,Books,P055,5/25/2024 22:37,2,257.06,128.53,Asia
+T00466,C0034,Dalton Perez,BookWorld Biography,Books,P055,10/23/2024 16:57,4,514.12,128.53,North America
+T00639,C0109,Abigail Jones,BookWorld Biography,Books,P055,03-12-2024 03:33,3,385.59,128.53,North America
+T00822,C0011,Bryan Mathews,BookWorld Biography,Books,P055,05-08-2024 18:21,3,385.59,128.53,South America
+T00850,C0029,Erin Manning,BookWorld Biography,Books,P055,03-03-2024 06:11,2,257.06,128.53,North America
+T00872,C0088,Carlos Murray,BookWorld Biography,Books,P055,06-02-2024 13:27,1,128.53,128.53,Asia
+T00941,C0041,Lindsey Deleon,BookWorld Biography,Books,P055,7/20/2024 10:39,1,128.53,128.53,Europe
+T00109,C0175,Matthew Johnson,HomeSense Running Shoes,Clothing,P064,11/20/2024 9:53,4,1809.68,452.42,Asia
+T00145,C0198,Rebecca Ray,HomeSense Running Shoes,Clothing,P064,9/29/2024 16:14,2,904.84,452.42,Europe
+T00552,C0096,Benjamin Mcclure,HomeSense Running Shoes,Clothing,P064,12-11-2024 17:46,4,1809.68,452.42,South America
+T00628,C0141,Paul Parsons,HomeSense Running Shoes,Clothing,P064,8/19/2024 0:45,1,452.42,452.42,Europe
+T00636,C0054,Bruce Rhodes,HomeSense Running Shoes,Clothing,P064,1/28/2024 4:32,3,1357.26,452.42,Asia
+T00671,C0013,Lauren Buchanan,HomeSense Running Shoes,Clothing,P064,8/23/2024 9:19,1,452.42,452.42,South America
+T00688,C0116,James Martinez,HomeSense Running Shoes,Clothing,P064,5/22/2024 4:00,1,452.42,452.42,North America
+T00889,C0200,Kelly Cross,HomeSense Running Shoes,Clothing,P064,10-03-2024 04:33,3,1357.26,452.42,Asia
+T00972,C0106,Amanda Mcguire,HomeSense Running Shoes,Clothing,P064,11-01-2024 06:54,3,1357.26,452.42,Asia
+T00999,C0024,Michele Cooley,HomeSense Running Shoes,Clothing,P064,2/24/2024 12:09,1,452.42,452.42,North America
+T00113,C0194,Stacy Cook,ComfortLiving Biography,Books,P090,8/26/2024 15:16,1,165.3,165.3,North America
+T00220,C0157,Miguel Wong,ComfortLiving Biography,Books,P090,6/21/2024 15:09,1,165.3,165.3,North America
+T00234,C0176,Nicole Booth,ComfortLiving Biography,Books,P090,07-07-2024 23:53,4,661.2,165.3,North America
+T00689,C0024,Michele Cooley,ComfortLiving Biography,Books,P090,5/30/2024 0:00,2,330.6,165.3,North America
+T00716,C0055,Lauren Williams,ComfortLiving Biography,Books,P090,04-02-2024 02:03,2,330.6,165.3,North America
+T00720,C0126,Caitlin Brown,ComfortLiving Biography,Books,P090,01-08-2024 11:31,1,165.3,165.3,South America
+T00917,C0113,Joseph Ortiz Jr.,ComfortLiving Biography,Books,P090,1/18/2024 9:04,2,330.6,165.3,South America
+T00937,C0116,James Martinez,ComfortLiving Biography,Books,P090,10/30/2024 8:16,1,165.3,165.3,North America
+T00119,C0147,Hunter Fuller,ComfortLiving Mystery Book,Books,P018,3/13/2024 2:57,1,436.89,436.89,South America
+T00411,C0064,Martha Montgomery,ComfortLiving Mystery Book,Books,P018,02-06-2024 15:02,4,1747.56,436.89,Europe
+T00507,C0019,Brandon Rodriguez,ComfortLiving Mystery Book,Books,P018,5/28/2024 0:57,1,436.89,436.89,Europe
+T00606,C0196,Laura Watts,ComfortLiving Mystery Book,Books,P018,08-06-2024 14:37,3,1310.67,436.89,Europe
+T00722,C0016,Emily Woods,ComfortLiving Mystery Book,Books,P018,7/31/2024 5:19,4,1747.56,436.89,North America
+T00779,C0052,Stanley Aguirre,ComfortLiving Mystery Book,Books,P018,8/29/2024 18:52,3,1310.67,436.89,South America
+T00870,C0187,Kayla Kelly,ComfortLiving Mystery Book,Books,P018,05-02-2024 14:16,4,1747.56,436.89,South America
+T00120,C0156,William Adams,ActiveWear Smartwatch,Electronics,P083,2/27/2024 16:09,1,455.72,455.72,North America
+T00133,C0194,Stacy Cook,ActiveWear Smartwatch,Electronics,P083,9/26/2024 23:48,3,1367.16,455.72,North America
+T00138,C0051,Nicholas Ellis,ActiveWear Smartwatch,Electronics,P083,4/26/2024 22:10,4,1822.88,455.72,Europe
+T00168,C0023,Nicholas Cain,ActiveWear Smartwatch,Electronics,P083,9/26/2024 17:22,3,1367.16,455.72,Europe
+T00289,C0141,Paul Parsons,ActiveWear Smartwatch,Electronics,P083,12-03-2024 21:22,3,1367.16,455.72,Europe
+T00313,C0191,Samantha Gibson DVM,ActiveWear Smartwatch,Electronics,P083,4/23/2024 6:38,1,455.72,455.72,South America
+T00445,C0001,Lawrence Carroll,ActiveWear Smartwatch,Electronics,P083,05-07-2024 03:11,2,911.44,455.72,South America
+T00594,C0183,Kimberly Johnson,ActiveWear Smartwatch,Electronics,P083,10/29/2024 22:39,3,1367.16,455.72,North America
+T00632,C0016,Emily Woods,ActiveWear Smartwatch,Electronics,P083,07-11-2024 12:42,1,455.72,455.72,North America
+T00670,C0046,Beth Cardenas,ActiveWear Smartwatch,Electronics,P083,08-03-2024 21:42,2,911.44,455.72,North America
+T00831,C0184,Tina Jacobs,ActiveWear Smartwatch,Electronics,P083,5/19/2024 18:25,2,911.44,455.72,South America
+T00845,C0154,Robert Sharp,ActiveWear Smartwatch,Electronics,P083,12/31/2023 15:44,2,911.44,455.72,North America
+T00887,C0066,Catherine White,ActiveWear Smartwatch,Electronics,P083,8/28/2024 20:52,3,1367.16,455.72,Europe
+T00121,C0168,Karen Clements MD,SoundWave Novel,Books,P043,10/23/2024 6:09,4,1617.6,404.4,South America
+T00151,C0131,Scott Wilson,SoundWave Novel,Books,P043,12/19/2024 17:58,2,808.8,404.4,North America
+T00254,C0174,Tracy Steele,SoundWave Novel,Books,P043,6/30/2024 15:44,2,808.8,404.4,South America
+T00342,C0054,Bruce Rhodes,SoundWave Novel,Books,P043,1/24/2024 16:03,3,1213.2,404.4,Asia
+T00356,C0115,Joshua Hamilton,SoundWave Novel,Books,P043,12/22/2024 17:19,4,1617.6,404.4,Asia
+T00572,C0155,Michelle Brown,SoundWave Novel,Books,P043,9/21/2024 21:57,2,808.8,404.4,South America
+T00790,C0084,Belinda Garner,SoundWave Novel,Books,P043,8/13/2024 23:52,1,404.4,404.4,Asia
+T00837,C0139,Ricky Gutierrez,SoundWave Novel,Books,P043,9/20/2024 4:55,2,808.8,404.4,North America
+T00841,C0019,Brandon Rodriguez,SoundWave Novel,Books,P043,07-01-2024 13:07,1,404.4,404.4,Europe
+T00907,C0160,Jodi Cook,SoundWave Novel,Books,P043,2/15/2024 17:18,4,1617.6,404.4,North America
+T00931,C0114,Benjamin Anderson,SoundWave Novel,Books,P043,09-04-2024 22:08,4,1617.6,404.4,Europe
+T00122,C0084,Belinda Garner,ActiveWear T-Shirt,Clothing,P035,09-12-2024 13:59,2,61.18,30.59,Asia
+T00246,C0088,Carlos Murray,ActiveWear T-Shirt,Clothing,P035,12-05-2024 01:12,3,91.77,30.59,Asia
+T00329,C0008,David Li,ActiveWear T-Shirt,Clothing,P035,12/17/2024 4:05,4,122.36,30.59,North America
+T00446,C0164,Morgan Perez,ActiveWear T-Shirt,Clothing,P035,2/25/2024 3:48,2,61.18,30.59,Europe
+T00479,C0144,Andrea Hart,ActiveWear T-Shirt,Clothing,P035,4/27/2024 20:02,4,122.36,30.59,North America
+T00765,C0025,Gregory Odom,ActiveWear T-Shirt,Clothing,P035,1/31/2024 19:48,1,30.59,30.59,South America
+T00799,C0061,Brandon Escobar,ActiveWear T-Shirt,Clothing,P035,12-10-2024 16:00,1,30.59,30.59,Europe
+T00804,C0134,Theresa Gonzalez,ActiveWear T-Shirt,Clothing,P035,12-10-2024 06:40,4,122.36,30.59,Asia
+T00812,C0003,Michael Rivera,ActiveWear T-Shirt,Clothing,P035,2/18/2024 2:50,4,122.36,30.59,South America
+T00956,C0099,Rodney Eaton,ActiveWear T-Shirt,Clothing,P035,5/28/2024 1:25,1,30.59,30.59,South America
+T00125,C0122,Corey Ruiz,TechPro T-Shirt,Clothing,P033,1/26/2024 5:19,2,128.5,64.25,North America
+T00189,C0195,Jeremy Mclaughlin,TechPro T-Shirt,Clothing,P033,04-05-2024 04:56,2,128.5,64.25,South America
+T00200,C0057,Elizabeth Nguyen,TechPro T-Shirt,Clothing,P033,03-05-2024 04:58,3,192.75,64.25,Europe
+T00366,C0075,Misty Higgins,TechPro T-Shirt,Clothing,P033,08-09-2024 17:24,3,192.75,64.25,Europe
+T00510,C0031,Tina Miller,TechPro T-Shirt,Clothing,P033,03-06-2024 01:55,4,257,64.25,South America
+T00532,C0030,Mark Brock,TechPro T-Shirt,Clothing,P033,04-11-2024 09:53,3,192.75,64.25,North America
+T00755,C0032,Dustin Campbell,TechPro T-Shirt,Clothing,P033,07-12-2024 08:20,3,192.75,64.25,South America
+T00905,C0034,Dalton Perez,TechPro T-Shirt,Clothing,P033,9/22/2024 0:00,2,128.5,64.25,North America
+T00126,C0143,Brian Parker,ActiveWear Jacket,Clothing,P014,12-05-2024 07:49,4,105.04,26.26,Asia
+T00207,C0034,Dalton Perez,ActiveWear Jacket,Clothing,P014,6/19/2024 2:53,3,78.78,26.26,North America
+T00865,C0094,Emily Trevino,ActiveWear Jacket,Clothing,P014,4/28/2024 10:46,3,78.78,26.26,North America
+T00901,C0010,Aaron Cox,ActiveWear Jacket,Clothing,P014,05-12-2024 11:53,4,105.04,26.26,Europe
+T00129,C0002,Elizabeth Lutz,BookWorld Rug,Home Decor,P004,06-11-2024 23:59,4,382.76,95.69,Asia
+T00334,C0164,Morgan Perez,BookWorld Rug,Home Decor,P004,2/22/2024 14:01,1,95.69,95.69,Europe
+T00419,C0030,Mark Brock,BookWorld Rug,Home Decor,P004,07-12-2024 13:34,3,287.07,95.69,North America
+T00641,C0173,Francisco Young,BookWorld Rug,Home Decor,P004,01-02-2024 15:02,3,287.07,95.69,Asia
+T00747,C0137,Robert Gardner,BookWorld Rug,Home Decor,P004,12/23/2024 23:09,1,95.69,95.69,South America
+T00860,C0008,David Li,BookWorld Rug,Home Decor,P004,8/22/2024 3:25,2,191.38,95.69,North America
+T00891,C0091,Lisa Kirk,BookWorld Rug,Home Decor,P004,7/24/2024 23:11,4,382.76,95.69,South America
+T00132,C0105,Ryan Hampton,TechPro Headphones,Electronics,P029,09-03-2024 19:50,4,1734.56,433.64,Europe
+T00213,C0165,Juan Mcdaniel,TechPro Headphones,Electronics,P029,2/15/2024 7:07,3,1300.92,433.64,South America
+T00222,C0146,Brittany Harvey,TechPro Headphones,Electronics,P029,5/24/2024 22:54,1,433.64,433.64,Asia
+T00258,C0050,Ryan Davis,TechPro Headphones,Electronics,P029,4/25/2024 3:49,3,1300.92,433.64,North America
+T00286,C0069,Stacy Foster,TechPro Headphones,Electronics,P029,12-09-2024 14:58,2,867.28,433.64,Europe
+T00436,C0001,Lawrence Carroll,TechPro Headphones,Electronics,P029,11-02-2024 17:04,3,1300.92,433.64,South America
+T00495,C0027,Justin Heath,TechPro Headphones,Electronics,P029,04-07-2024 16:46,2,867.28,433.64,Asia
+T00541,C0082,Aimee Taylor,TechPro Headphones,Electronics,P029,7/25/2024 15:20,2,867.28,433.64,South America
+T00554,C0087,Travis Campbell,TechPro Headphones,Electronics,P029,4/13/2024 20:04,4,1734.56,433.64,South America
+T00576,C0100,Clinton Gomez,TechPro Headphones,Electronics,P029,09-04-2024 20:49,4,1734.56,433.64,Europe
+T00593,C0120,Francisco Diaz,TechPro Headphones,Electronics,P029,04-01-2024 07:30,2,867.28,433.64,South America
+T00673,C0102,Michael Atkinson,TechPro Headphones,Electronics,P029,09-01-2024 21:40,3,1300.92,433.64,South America
+T00680,C0163,Tiffany Cain,TechPro Headphones,Electronics,P029,7/18/2024 0:10,4,1734.56,433.64,South America
+T00776,C0065,Gerald Hines,TechPro Headphones,Electronics,P029,4/22/2024 1:00,4,1734.56,433.64,North America
+T00835,C0190,Alexander Lowe,TechPro Headphones,Electronics,P029,12/16/2024 9:49,1,433.64,433.64,South America
+T00935,C0109,Abigail Jones,TechPro Headphones,Electronics,P029,9/21/2024 9:44,1,433.64,433.64,North America
+T00975,C0116,James Martinez,TechPro Headphones,Electronics,P029,6/16/2024 15:47,2,867.28,433.64,North America
+T00135,C0075,Misty Higgins,BookWorld Cookbook,Books,P097,4/29/2024 19:03,3,958.02,319.34,Europe
+T00173,C0182,Joshua Preston,BookWorld Cookbook,Books,P097,05-09-2024 17:32,4,1277.36,319.34,Europe
+T00182,C0122,Corey Ruiz,BookWorld Cookbook,Books,P097,05-08-2024 22:24,3,958.02,319.34,North America
+T00278,C0077,Scott Sims,BookWorld Cookbook,Books,P097,9/26/2024 16:10,1,319.34,319.34,South America
+T00354,C0070,Timothy Perez,BookWorld Cookbook,Books,P097,5/15/2024 0:22,4,1277.36,319.34,Europe
+T00394,C0063,Wayne Ferguson,BookWorld Cookbook,Books,P097,3/25/2024 13:47,4,1277.36,319.34,Europe
+T00474,C0168,Karen Clements MD,BookWorld Cookbook,Books,P097,04-01-2024 14:59,1,319.34,319.34,South America
+T00534,C0004,Kathleen Rodriguez,BookWorld Cookbook,Books,P097,6/25/2024 22:10,3,958.02,319.34,South America
+T00783,C0057,Elizabeth Nguyen,BookWorld Cookbook,Books,P097,1/18/2024 16:04,2,638.68,319.34,Europe
+T00142,C0028,Jennifer Pena,ActiveWear Jacket,Clothing,P080,08-04-2024 12:38,4,1214,303.5,Asia
+T00150,C0166,John Rogers,ActiveWear Jacket,Clothing,P080,10/22/2024 12:08,1,303.5,303.5,Europe
+T00171,C0028,Jennifer Pena,ActiveWear Jacket,Clothing,P080,9/19/2024 3:29,1,303.5,303.5,Asia
+T00247,C0187,Kayla Kelly,ActiveWear Jacket,Clothing,P080,10-12-2024 08:20,1,303.5,303.5,South America
+T00473,C0066,Catherine White,ActiveWear Jacket,Clothing,P080,3/13/2024 4:00,2,607,303.5,Europe
+T00489,C0039,Angela Harris,ActiveWear Jacket,Clothing,P080,2/13/2024 16:15,4,1214,303.5,South America
+T00588,C0145,Wayne Stone,ActiveWear Jacket,Clothing,P080,4/16/2024 21:50,2,607,303.5,Asia
+T00714,C0153,Justin Smith,ActiveWear Jacket,Clothing,P080,09-11-2024 11:58,2,607,303.5,South America
+T00827,C0016,Emily Woods,ActiveWear Jacket,Clothing,P080,11-10-2024 18:24,3,910.5,303.5,North America
+T00946,C0145,Wayne Stone,ActiveWear Jacket,Clothing,P080,7/22/2024 5:37,4,1214,303.5,Asia
+T00147,C0117,Jeffrey Mcmahon,SoundWave Mystery Book,Books,P099,08-05-2024 20:03,4,1417.16,354.29,North America
+T00266,C0125,Nicholas Taylor,SoundWave Mystery Book,Books,P099,2/27/2024 18:25,2,708.58,354.29,North America
+T00669,C0074,Jonathan Russo,SoundWave Mystery Book,Books,P099,01-03-2024 16:57,4,1417.16,354.29,Europe
+T00825,C0070,Timothy Perez,SoundWave Mystery Book,Books,P099,02-08-2024 14:20,1,354.29,354.29,Europe
+T00148,C0002,Elizabeth Lutz,ComfortLiving Sweater,Clothing,P019,2/28/2024 7:44,2,770.74,385.37,Asia
+T00192,C0079,Brian Murillo,ComfortLiving Sweater,Clothing,P019,3/28/2024 4:39,4,1541.48,385.37,North America
+T00209,C0156,William Adams,ComfortLiving Sweater,Clothing,P019,09-06-2024 12:12,3,1156.11,385.37,North America
+T00264,C0170,Logan Harris,ComfortLiving Sweater,Clothing,P019,01-12-2024 10:17,4,1541.48,385.37,Europe
+T00339,C0117,Jeffrey Mcmahon,ComfortLiving Sweater,Clothing,P019,05-03-2024 03:39,4,1541.48,385.37,North America
+T00375,C0082,Aimee Taylor,ComfortLiving Sweater,Clothing,P019,10-05-2024 02:02,4,1541.48,385.37,South America
+T00525,C0178,Carol Williams,ComfortLiving Sweater,Clothing,P019,10/21/2024 20:29,3,1156.11,385.37,Asia
+T00535,C0059,Mrs. Kimberly Wright,ComfortLiving Sweater,Clothing,P019,03-12-2024 21:51,4,1541.48,385.37,North America
+T00595,C0138,Cynthia Clayton,ComfortLiving Sweater,Clothing,P019,07-11-2024 20:27,4,1541.48,385.37,Asia
+T00836,C0076,Emily Roberts,ComfortLiving Sweater,Clothing,P019,4/25/2024 14:43,1,385.37,385.37,South America
+T00976,C0109,Abigail Jones,ComfortLiving Sweater,Clothing,P019,08-07-2024 01:34,2,770.74,385.37,North America
+T00154,C0040,Michael Harrell,ActiveWear Jacket,Clothing,P020,12/31/2023 6:53,4,1585.36,396.34,Asia
+T00212,C0196,Laura Watts,ActiveWear Jacket,Clothing,P020,12-03-2024 12:54,4,1585.36,396.34,Europe
+T00259,C0006,Brittany Palmer,ActiveWear Jacket,Clothing,P020,1/25/2024 9:29,4,1585.36,396.34,South America
+T00263,C0030,Mark Brock,ActiveWear Jacket,Clothing,P020,1/28/2024 4:10,1,396.34,396.34,North America
+T00627,C0013,Lauren Buchanan,ActiveWear Jacket,Clothing,P020,05-06-2024 23:15,4,1585.36,396.34,South America
+T00788,C0114,Benjamin Anderson,ActiveWear Jacket,Clothing,P020,6/13/2024 12:58,3,1189.02,396.34,Europe
+T00843,C0102,Michael Atkinson,ActiveWear Jacket,Clothing,P020,08-08-2024 19:49,2,792.68,396.34,South America
+T00903,C0182,Joshua Preston,ActiveWear Jacket,Clothing,P020,1/29/2024 19:25,4,1585.36,396.34,Europe
+T00911,C0067,Carl Gonzalez,ActiveWear Jacket,Clothing,P020,6/14/2024 21:37,3,1189.02,396.34,North America
+T00933,C0058,Zachary Turner,ActiveWear Jacket,Clothing,P020,02-01-2024 14:24,1,396.34,396.34,North America
+T00967,C0040,Michael Harrell,ActiveWear Jacket,Clothing,P020,7/19/2024 9:25,4,1585.36,396.34,Asia
+T00983,C0046,Beth Cardenas,ActiveWear Jacket,Clothing,P020,4/30/2024 8:50,4,1585.36,396.34,North America
+T00157,C0169,Jennifer Shaw,ActiveWear Running Shoes,Clothing,P044,11-09-2024 09:07,2,37.64,18.82,South America
+T00672,C0165,Juan Mcdaniel,ActiveWear Running Shoes,Clothing,P044,7/28/2024 0:09,4,75.28,18.82,South America
+T00711,C0165,Juan Mcdaniel,ActiveWear Running Shoes,Clothing,P044,06-11-2024 15:51,4,75.28,18.82,South America
+T00878,C0165,Juan Mcdaniel,ActiveWear Running Shoes,Clothing,P044,9/24/2024 21:15,3,56.46,18.82,South America
+T00159,C0163,Tiffany Cain,ActiveWear Smartwatch,Electronics,P002,10-12-2024 03:12,4,1385.2,346.3,South America
+T00248,C0067,Carl Gonzalez,ActiveWear Smartwatch,Electronics,P002,05-03-2024 21:36,4,1385.2,346.3,North America
+T00285,C0068,Mark Cox,ActiveWear Smartwatch,Electronics,P002,04-02-2024 02:23,3,1038.9,346.3,North America
+T00402,C0031,Tina Miller,ActiveWear Smartwatch,Electronics,P002,11/24/2024 17:22,2,692.6,346.3,South America
+T00648,C0003,Michael Rivera,ActiveWear Smartwatch,Electronics,P002,8/24/2024 18:54,4,1385.2,346.3,South America
+T00706,C0181,Alexander Barker,ActiveWear Smartwatch,Electronics,P002,07-01-2024 00:11,3,1038.9,346.3,South America
+T00717,C0186,Amber Alexander,ActiveWear Smartwatch,Electronics,P002,9/21/2024 5:32,2,692.6,346.3,Asia
+T00780,C0102,Michael Atkinson,ActiveWear Smartwatch,Electronics,P002,2/14/2024 14:25,3,1038.9,346.3,South America
+T00165,C0049,Jason Yates,SoundWave Smartwatch,Electronics,P056,3/18/2024 4:33,4,64.32,16.08,North America
+T00399,C0013,Lauren Buchanan,SoundWave Smartwatch,Electronics,P056,3/28/2024 19:16,3,48.24,16.08,South America
+T00454,C0174,Tracy Steele,SoundWave Smartwatch,Electronics,P056,11-10-2024 08:32,2,32.16,16.08,South America
+T00584,C0112,Brian Adkins,SoundWave Smartwatch,Electronics,P056,06-02-2024 17:24,1,16.08,16.08,South America
+T00774,C0095,William Walker,SoundWave Smartwatch,Electronics,P056,01-07-2024 14:19,2,32.16,16.08,South America
+T00916,C0099,Rodney Eaton,SoundWave Smartwatch,Electronics,P056,11-10-2024 19:32,4,64.32,16.08,South America
+T00949,C0169,Jennifer Shaw,SoundWave Smartwatch,Electronics,P056,2/16/2024 14:52,4,64.32,16.08,South America
+T00996,C0189,Sherri Dixon,SoundWave Smartwatch,Electronics,P056,1/31/2024 19:34,1,16.08,16.08,North America
+T00170,C0038,Jeffrey Perkins,ComfortLiving Rug,Home Decor,P082,2/29/2024 1:45,3,167.97,55.99,North America
+T00215,C0065,Gerald Hines,ComfortLiving Rug,Home Decor,P082,3/18/2024 6:01,3,167.97,55.99,North America
+T00233,C0162,Edwin Watson,ComfortLiving Rug,Home Decor,P082,2/16/2024 11:29,1,55.99,55.99,Asia
+T00369,C0151,Amber Gonzalez,ComfortLiving Rug,Home Decor,P082,12/24/2024 11:40,4,223.96,55.99,South America
+T00373,C0179,Donald Miller,ComfortLiving Rug,Home Decor,P082,02-07-2024 20:28,2,111.98,55.99,Europe
+T00398,C0069,Stacy Foster,ComfortLiving Rug,Home Decor,P082,3/14/2024 17:22,1,55.99,55.99,Europe
+T00622,C0047,Samantha Frank,ComfortLiving Rug,Home Decor,P082,2/22/2024 21:46,2,111.98,55.99,North America
+T00874,C0093,Nancy Walker,ComfortLiving Rug,Home Decor,P082,09-12-2024 04:48,3,167.97,55.99,Asia
+T00174,C0107,Dana Cantrell,ComfortLiving Headphones,Electronics,P012,2/21/2024 23:48,1,159.6,159.6,South America
+T00179,C0119,David Armstrong,ComfortLiving Headphones,Electronics,P012,11/27/2024 8:06,1,159.6,159.6,Europe
+T00451,C0023,Nicholas Cain,ComfortLiving Headphones,Electronics,P012,10-04-2024 20:44,4,638.4,159.6,Europe
+T00719,C0057,Elizabeth Nguyen,ComfortLiving Headphones,Electronics,P012,04-07-2024 14:32,1,159.6,159.6,Europe
+T00789,C0005,Laura Weber,ComfortLiving Headphones,Electronics,P012,11-04-2024 00:30,2,319.2,159.6,Asia
+T00858,C0194,Stacy Cook,ComfortLiving Headphones,Electronics,P012,8/18/2024 0:51,1,159.6,159.6,North America
+T00909,C0093,Nancy Walker,ComfortLiving Headphones,Electronics,P012,01-01-2024 14:29,2,319.2,159.6,Asia
+T00969,C0149,Tina Wilson,ComfortLiving Headphones,Electronics,P012,7/30/2024 8:34,3,478.8,159.6,Europe
+T00176,C0164,Morgan Perez,TechPro Textbook,Books,P075,10/20/2024 16:20,1,497.76,497.76,Europe
+T00360,C0108,David Davis,TechPro Textbook,Books,P075,5/29/2024 17:04,3,1493.28,497.76,South America
+T00367,C0161,Jessica Warren,TechPro Textbook,Books,P075,3/27/2024 7:31,2,995.52,497.76,Asia
+T00643,C0137,Robert Gardner,TechPro Textbook,Books,P075,5/21/2024 9:00,3,1493.28,497.76,South America
+T00782,C0188,Anna Ball,TechPro Textbook,Books,P075,8/27/2024 5:49,3,1493.28,497.76,South America
+T00805,C0038,Jeffrey Perkins,TechPro Textbook,Books,P075,02-05-2024 18:18,3,1493.28,497.76,North America
+T00809,C0078,Julia Palmer,TechPro Textbook,Books,P075,12-09-2024 11:44,2,995.52,497.76,Asia
+T00866,C0065,Gerald Hines,TechPro Textbook,Books,P075,12-10-2024 01:50,3,1493.28,497.76,North America
+T00876,C0044,Kenneth Alexander,TechPro Textbook,Books,P075,10/22/2024 2:45,2,995.52,497.76,Europe
+T00928,C0082,Aimee Taylor,TechPro Textbook,Books,P075,09-06-2024 18:39,4,1991.04,497.76,South America
+T00177,C0099,Rodney Eaton,TechPro T-Shirt,Clothing,P005,6/14/2024 8:41,3,1287.93,429.31,South America
+T00183,C0030,Mark Brock,TechPro T-Shirt,Clothing,P005,8/24/2024 1:19,3,1287.93,429.31,North America
+T00437,C0143,Brian Parker,TechPro T-Shirt,Clothing,P005,09-11-2024 20:41,4,1717.24,429.31,Asia
+T00468,C0061,Brandon Escobar,TechPro T-Shirt,Clothing,P005,2/23/2024 5:08,2,858.62,429.31,Europe
+T00483,C0194,Stacy Cook,TechPro T-Shirt,Clothing,P005,05-08-2024 22:54,3,1287.93,429.31,North America
+T00767,C0045,Michael Williams,TechPro T-Shirt,Clothing,P005,2/29/2024 3:49,3,1287.93,429.31,Asia
+T00855,C0107,Dana Cantrell,TechPro T-Shirt,Clothing,P005,8/16/2024 19:51,3,1287.93,429.31,South America
+T00879,C0074,Jonathan Russo,TechPro T-Shirt,Clothing,P005,1/20/2024 17:46,3,1287.93,429.31,Europe
+T00185,C0108,David Davis,HomeSense Desk Lamp,Home Decor,P028,03-07-2024 03:54,4,942.32,235.58,South America
+T00229,C0038,Jeffrey Perkins,HomeSense Desk Lamp,Home Decor,P028,6/29/2024 11:39,3,706.74,235.58,North America
+T00305,C0127,Kathryn Stevens,HomeSense Desk Lamp,Home Decor,P028,1/18/2024 15:08,4,942.32,235.58,Europe
+T00332,C0145,Wayne Stone,HomeSense Desk Lamp,Home Decor,P028,02-04-2024 07:44,4,942.32,235.58,Asia
+T00393,C0147,Hunter Fuller,HomeSense Desk Lamp,Home Decor,P028,5/28/2024 10:52,3,706.74,235.58,South America
+T00520,C0052,Stanley Aguirre,HomeSense Desk Lamp,Home Decor,P028,4/20/2024 8:12,1,235.58,235.58,South America
+T00527,C0110,Elizabeth Wells,HomeSense Desk Lamp,Home Decor,P028,01-02-2024 19:11,4,942.32,235.58,Asia
+T00582,C0177,Julia Kelly,HomeSense Desk Lamp,Home Decor,P028,08-05-2024 22:39,2,471.16,235.58,Asia
+T00736,C0195,Jeremy Mclaughlin,HomeSense Desk Lamp,Home Decor,P028,03-05-2024 10:46,4,942.32,235.58,South America
+T00756,C0028,Jennifer Pena,HomeSense Desk Lamp,Home Decor,P028,2/15/2024 4:29,3,706.74,235.58,Asia
+T00851,C0059,Mrs. Kimberly Wright,HomeSense Desk Lamp,Home Decor,P028,2/13/2024 6:45,3,706.74,235.58,North America
+T00915,C0163,Tiffany Cain,HomeSense Desk Lamp,Home Decor,P028,7/26/2024 15:47,3,706.74,235.58,South America
+T00196,C0104,Laura Bennett,HomeSense Cookware Set,Home Decor,P094,07-11-2024 17:39,2,894.68,447.34,South America
+T00370,C0143,Brian Parker,HomeSense Cookware Set,Home Decor,P094,7/17/2024 8:52,3,1342.02,447.34,Asia
+T00508,C0057,Elizabeth Nguyen,HomeSense Cookware Set,Home Decor,P094,12/18/2024 11:46,3,1342.02,447.34,Europe
+T00707,C0170,Logan Harris,HomeSense Cookware Set,Home Decor,P094,5/27/2024 15:48,3,1342.02,447.34,Europe
+T00708,C0187,Kayla Kelly,HomeSense Cookware Set,Home Decor,P094,02-12-2024 17:27,2,894.68,447.34,South America
+T00730,C0008,David Li,HomeSense Cookware Set,Home Decor,P094,1/22/2024 19:40,2,894.68,447.34,North America
+T00733,C0059,Mrs. Kimberly Wright,HomeSense Cookware Set,Home Decor,P094,02-06-2024 22:06,1,447.34,447.34,North America
+T00912,C0148,Matthew Rogers,HomeSense Cookware Set,Home Decor,P094,10-02-2024 16:00,4,1789.36,447.34,South America
+T00918,C0103,Jennifer Munoz,HomeSense Cookware Set,Home Decor,P094,8/20/2024 2:24,2,894.68,447.34,Europe
+T00966,C0154,Robert Sharp,HomeSense Cookware Set,Home Decor,P094,03-04-2024 05:11,2,894.68,447.34,North America
+T00974,C0143,Brian Parker,HomeSense Cookware Set,Home Decor,P094,12/18/2024 17:13,3,1342.02,447.34,Asia
+T00205,C0152,Justin Evans,ActiveWear Rug,Home Decor,P079,04-09-2024 09:14,4,1669.48,417.37,South America
+T00274,C0196,Laura Watts,ActiveWear Rug,Home Decor,P079,8/28/2024 19:56,1,417.37,417.37,Europe
+T00294,C0123,Jason Johnston,ActiveWear Rug,Home Decor,P079,8/23/2024 23:45,3,1252.11,417.37,Asia
+T00409,C0138,Cynthia Clayton,ActiveWear Rug,Home Decor,P079,12/18/2024 4:06,4,1669.48,417.37,Asia
+T00427,C0113,Joseph Ortiz Jr.,ActiveWear Rug,Home Decor,P079,02-05-2024 19:46,4,1669.48,417.37,South America
+T00575,C0196,Laura Watts,ActiveWear Rug,Home Decor,P079,12/15/2024 3:43,4,1669.48,417.37,Europe
+T00617,C0048,Matthew Park,ActiveWear Rug,Home Decor,P079,1/14/2024 3:22,3,1252.11,417.37,South America
+T00626,C0199,Andrea Jenkins,ActiveWear Rug,Home Decor,P079,8/17/2024 12:06,2,834.74,417.37,Europe
+T00656,C0065,Gerald Hines,ActiveWear Rug,Home Decor,P079,9/13/2024 8:28,1,417.37,417.37,North America
+T00713,C0135,Toni Weaver,ActiveWear Rug,Home Decor,P079,1/22/2024 2:25,2,834.74,417.37,Europe
+T00745,C0090,Charles Hamilton,ActiveWear Rug,Home Decor,P079,6/22/2024 14:35,2,834.74,417.37,Asia
+T00746,C0104,Laura Bennett,ActiveWear Rug,Home Decor,P079,7/19/2024 14:35,4,1669.48,417.37,South America
+T00766,C0138,Cynthia Clayton,ActiveWear Rug,Home Decor,P079,02-02-2024 02:54,1,417.37,417.37,Asia
+T00823,C0095,William Walker,ActiveWear Rug,Home Decor,P079,9/30/2024 10:45,3,1252.11,417.37,South America
+T00908,C0089,Paul Carter,ActiveWear Rug,Home Decor,P079,02-12-2024 15:27,4,1669.48,417.37,Europe
+T00964,C0047,Samantha Frank,ActiveWear Rug,Home Decor,P079,08-05-2024 13:12,1,417.37,417.37,North America
+T00214,C0056,Erika Fernandez,SoundWave Cookbook,Books,P024,2/18/2024 5:49,2,677.32,338.66,Asia
+T00249,C0075,Misty Higgins,SoundWave Cookbook,Books,P024,12-10-2024 21:53,3,1015.98,338.66,Europe
+T00528,C0053,Albert Burke,SoundWave Cookbook,Books,P024,8/28/2024 4:01,4,1354.64,338.66,Europe
+T00817,C0108,David Davis,SoundWave Cookbook,Books,P024,10-02-2024 22:07,2,677.32,338.66,South America
+T00847,C0004,Kathleen Rodriguez,SoundWave Cookbook,Books,P024,10/24/2024 16:28,1,338.66,338.66,South America
+T00219,C0019,Brandon Rodriguez,BookWorld Bluetooth Speaker,Electronics,P008,8/22/2024 23:44,1,146.85,146.85,Europe
+T00385,C0072,Sarah Scott,BookWorld Bluetooth Speaker,Electronics,P008,3/16/2024 16:23,2,293.7,146.85,North America
+T00611,C0084,Belinda Garner,BookWorld Bluetooth Speaker,Electronics,P008,12/16/2024 14:32,2,293.7,146.85,Asia
+T00660,C0057,Elizabeth Nguyen,BookWorld Bluetooth Speaker,Electronics,P008,9/23/2024 16:46,3,440.55,146.85,Europe
+T00701,C0175,Matthew Johnson,BookWorld Bluetooth Speaker,Electronics,P008,7/27/2024 5:05,2,293.7,146.85,Asia
+T00757,C0022,Teresa Esparza,BookWorld Bluetooth Speaker,Electronics,P008,09-03-2024 03:11,2,293.7,146.85,Asia
+T00781,C0182,Joshua Preston,BookWorld Bluetooth Speaker,Electronics,P008,05-06-2024 19:24,1,146.85,146.85,Europe
+T00934,C0154,Robert Sharp,BookWorld Bluetooth Speaker,Electronics,P008,9/19/2024 14:18,2,293.7,146.85,North America
+T00963,C0199,Andrea Jenkins,BookWorld Bluetooth Speaker,Electronics,P008,10/26/2024 0:01,2,293.7,146.85,Europe
+T01000,C0004,Kathleen Rodriguez,BookWorld Bluetooth Speaker,Electronics,P008,2/28/2024 10:16,2,293.7,146.85,South America
+T00238,C0031,Tina Miller,HomeSense Rug,Home Decor,P091,08-11-2024 00:11,2,445.9,222.95,South America
+T00257,C0051,Nicholas Ellis,HomeSense Rug,Home Decor,P091,08-10-2024 00:39,1,222.95,222.95,Europe
+T00260,C0059,Mrs. Kimberly Wright,HomeSense Rug,Home Decor,P091,3/23/2024 8:29,4,891.8,222.95,North America
+T00384,C0073,Heidi Johnson,HomeSense Rug,Home Decor,P091,02-04-2024 15:35,4,891.8,222.95,Europe
+T00646,C0036,Brian Aguilar DDS,HomeSense Rug,Home Decor,P091,1/23/2024 12:53,3,668.85,222.95,North America
+T00793,C0054,Bruce Rhodes,HomeSense Rug,Home Decor,P091,10-07-2024 17:48,3,668.85,222.95,Asia
+T00798,C0015,Tina Duran,HomeSense Rug,Home Decor,P091,9/21/2024 1:39,3,668.85,222.95,North America
+T00241,C0109,Abigail Jones,TechPro T-Shirt,Clothing,P071,07-08-2024 16:06,3,382.08,127.36,North America
+T00441,C0133,Gwendolyn Carter,TechPro T-Shirt,Clothing,P071,02-03-2024 08:15,4,509.44,127.36,South America
+T00559,C0134,Theresa Gonzalez,TechPro T-Shirt,Clothing,P071,4/28/2024 14:16,1,127.36,127.36,Asia
+T00591,C0161,Jessica Warren,TechPro T-Shirt,Clothing,P071,07-05-2024 10:29,3,382.08,127.36,Asia
+T00675,C0002,Elizabeth Lutz,TechPro T-Shirt,Clothing,P071,12-03-2024 01:41,2,254.72,127.36,Asia
+T00777,C0049,Jason Yates,TechPro T-Shirt,Clothing,P071,1/14/2024 4:59,2,254.72,127.36,North America
+T00890,C0176,Nicole Booth,TechPro T-Shirt,Clothing,P071,02-02-2024 14:46,4,509.44,127.36,North America
+T00980,C0147,Hunter Fuller,TechPro T-Shirt,Clothing,P071,3/30/2024 9:01,1,127.36,127.36,South America
+T00244,C0158,Wendy Browning,SoundWave Laptop,Electronics,P098,01-04-2024 14:19,1,299.93,299.93,South America
+T00302,C0051,Nicholas Ellis,SoundWave Laptop,Electronics,P098,7/23/2024 12:30,1,299.93,299.93,Europe
+T00412,C0126,Caitlin Brown,SoundWave Laptop,Electronics,P098,11-08-2024 14:50,2,599.86,299.93,South America
+T00543,C0127,Kathryn Stevens,SoundWave Laptop,Electronics,P098,9/20/2024 8:12,3,899.79,299.93,Europe
+T00654,C0054,Bruce Rhodes,SoundWave Laptop,Electronics,P098,07-07-2024 12:28,4,1199.72,299.93,Asia
+T00849,C0115,Joshua Hamilton,SoundWave Laptop,Electronics,P098,1/31/2024 9:08,2,599.86,299.93,Asia
+T00978,C0041,Lindsey Deleon,SoundWave Laptop,Electronics,P098,12/15/2024 21:18,3,899.79,299.93,Europe
+T00253,C0155,Michelle Brown,SoundWave Bluetooth Speaker,Electronics,P026,11-11-2024 03:36,4,257.52,64.38,South America
+T00290,C0162,Edwin Watson,SoundWave Bluetooth Speaker,Electronics,P026,1/29/2024 11:31,4,257.52,64.38,Asia
+T00338,C0091,Lisa Kirk,SoundWave Bluetooth Speaker,Electronics,P026,5/28/2024 17:40,2,128.76,64.38,South America
+T00557,C0008,David Li,SoundWave Bluetooth Speaker,Electronics,P026,03-11-2024 03:22,2,128.76,64.38,North America
+T00562,C0121,Mark Atkinson,SoundWave Bluetooth Speaker,Electronics,P026,07-06-2024 11:32,1,64.38,64.38,Europe
+T00578,C0143,Brian Parker,SoundWave Bluetooth Speaker,Electronics,P026,3/30/2024 23:37,3,193.14,64.38,Asia
+T00927,C0091,Lisa Kirk,SoundWave Bluetooth Speaker,Electronics,P026,4/22/2024 18:28,3,193.14,64.38,South America
+T00307,C0044,Kenneth Alexander,SoundWave T-Shirt,Clothing,P045,5/30/2024 18:15,4,1927.12,481.78,Europe
+T00502,C0181,Alexander Barker,SoundWave T-Shirt,Clothing,P045,04-12-2024 14:44,1,481.78,481.78,South America
+T00598,C0149,Tina Wilson,SoundWave T-Shirt,Clothing,P045,5/24/2024 9:32,2,963.56,481.78,Europe
+T00621,C0099,Rodney Eaton,SoundWave T-Shirt,Clothing,P045,4/19/2024 5:04,2,963.56,481.78,South America
+T00625,C0124,Lindsay Perez,SoundWave T-Shirt,Clothing,P045,07-02-2024 09:34,2,963.56,481.78,Europe
+T00663,C0054,Bruce Rhodes,SoundWave T-Shirt,Clothing,P045,4/23/2024 11:07,3,1445.34,481.78,Asia
+T00734,C0132,Lisa Jackson,SoundWave T-Shirt,Clothing,P045,9/29/2024 16:20,2,963.56,481.78,Europe
+T00947,C0022,Teresa Esparza,SoundWave T-Shirt,Clothing,P045,08-11-2024 12:13,2,963.56,481.78,Asia
+T00318,C0098,Laura Gilbert,BookWorld Sweater,Clothing,P046,01-09-2024 16:35,1,366.07,366.07,North America
+T00380,C0135,Toni Weaver,BookWorld Sweater,Clothing,P046,01-04-2024 16:40,4,1464.28,366.07,Europe
+T00464,C0188,Anna Ball,BookWorld Sweater,Clothing,P046,5/16/2024 11:23,2,732.14,366.07,South America
+T00500,C0145,Wayne Stone,BookWorld Sweater,Clothing,P046,6/17/2024 14:12,3,1098.21,366.07,Asia
+T00603,C0108,David Davis,BookWorld Sweater,Clothing,P046,5/15/2024 16:06,3,1098.21,366.07,South America
+T00769,C0011,Bryan Mathews,BookWorld Sweater,Clothing,P046,02-06-2024 14:46,4,1464.28,366.07,South America
+T00900,C0173,Francisco Young,BookWorld Sweater,Clothing,P046,09-01-2024 18:30,4,1464.28,366.07,Asia
+T00943,C0133,Gwendolyn Carter,BookWorld Sweater,Clothing,P046,01-01-2024 10:21,1,366.07,366.07,South America
+T00379,C0004,Kathleen Rodriguez,ActiveWear Smartwatch,Electronics,P077,12/23/2024 14:13,4,1062.04,265.51,South America
+T00418,C0184,Tina Jacobs,ActiveWear Smartwatch,Electronics,P077,01-03-2024 02:43,2,531.02,265.51,South America
+T00549,C0093,Nancy Walker,ActiveWear Smartwatch,Electronics,P077,9/16/2024 2:11,2,531.02,265.51,Asia
+T00624,C0105,Ryan Hampton,ActiveWear Smartwatch,Electronics,P077,08-03-2024 23:04,4,1062.04,265.51,Europe
+T00778,C0175,Matthew Johnson,ActiveWear Smartwatch,Electronics,P077,7/18/2024 11:21,4,1062.04,265.51,Asia
+T00920,C0090,Charles Hamilton,ActiveWear Smartwatch,Electronics,P077,4/26/2024 11:22,1,265.51,265.51,Asia
+T00396,C0067,Carl Gonzalez,SoundWave Smartwatch,Electronics,P037,4/14/2024 14:12,2,919.72,459.86,North America
+T00408,C0054,Bruce Rhodes,SoundWave Smartwatch,Electronics,P037,8/15/2024 3:03,2,919.72,459.86,Asia
+T00496,C0118,Jacob Holt,SoundWave Smartwatch,Electronics,P037,10/24/2024 8:30,1,459.86,459.86,South America
+T00759,C0059,Mrs. Kimberly Wright,SoundWave Smartwatch,Electronics,P037,06-04-2024 02:15,3,1379.58,459.86,North America
+T00922,C0018,Tyler Haynes,SoundWave Smartwatch,Electronics,P037,04-05-2024 13:05,4,1839.44,459.86,North America
+T00959,C0115,Joshua Hamilton,SoundWave Smartwatch,Electronics,P037,9/29/2024 10:16,2,919.72,459.86,Asia
+T00992,C0024,Michele Cooley,SoundWave Smartwatch,Electronics,P037,4/21/2024 10:52,1,459.86,459.86,North America
